@@ -15,10 +15,18 @@
 # limitations under the License.
 #
 import webapp2
+import json
+from google.appengine.ext import db
+import video_parser
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        self.response.write('Hello world!')
+		video_data = video_parser.parse("data/video-data.json")
+		for item in video_data:
+			v = video_parser.Video()
+			v.vid_id = item[8].replace("-","")
+			v.put()
+		self.response.write('Hello world!')
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler)
