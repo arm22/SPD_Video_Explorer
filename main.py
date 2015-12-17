@@ -19,6 +19,7 @@ import jinja2
 import os
 import logging
 import vid_module
+import make_map
 #use these scripts to build the db
 #import build_db
 #build_db.build()
@@ -29,7 +30,13 @@ JINJA_ENVIRONMENT = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.di
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-		self.response.write('Hello world!')
+		#print statements don't work well
+        #print "In MainHandler"
+        logging.info("In MainHandler")
+        make_map.makeMap()
+        template_values={}
+        template = JINJA_ENVIRONMENT.get_template('search.html')
+        self.response.write(template.render(template_values))
 
 app = webapp2.WSGIApplication([
     ('/', MainHandler)
