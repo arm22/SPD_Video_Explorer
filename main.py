@@ -14,10 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-import webapp2
-import jinja2
-import os
-import logging
+import webapp2, jinja2, os
 import models
 import make_map
 
@@ -27,9 +24,6 @@ JINJA_ENVIRONMENT = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.di
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-		#print statements don't work well
-        #print "In MainHandler"
-        logging.info("In MainHandler")
         template_values={}
         template_values["maphtml"] = make_map.makeMap()
         template = JINJA_ENVIRONMENT.get_template('main.html')
