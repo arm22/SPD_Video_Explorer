@@ -18,11 +18,8 @@ import webapp2
 import jinja2
 import os
 import logging
-import vid_module
+import models
 import make_map
-#use these scripts to build the db
-#import build_db
-#build_db.build()
 
 JINJA_ENVIRONMENT = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
     extensions=['jinja2.ext.autoescape'],
@@ -33,9 +30,9 @@ class MainHandler(webapp2.RequestHandler):
 		#print statements don't work well
         #print "In MainHandler"
         logging.info("In MainHandler")
-        make_map.makeMap()
         template_values={}
-        template = JINJA_ENVIRONMENT.get_template('search.html')
+        template_values["maphtml"] = make_map.makeMap()
+        template = JINJA_ENVIRONMENT.get_template('main.html')
         self.response.write(template.render(template_values))
 
 app = webapp2.WSGIApplication([

@@ -1,7 +1,7 @@
 from google.appengine.ext import db
 import json, urllib
 from datetime import datetime
-import vid_module
+import models
 import keys
 
 ### Utility function you may want to use
@@ -40,7 +40,7 @@ def makeObject(vid_id, ext_id, latitude, longitude, description, date):
 	data = json.load(youtubRequest(params=vals))
 	if ((data["pageInfo"]["totalResults"] >= 1) and (data is not None)):
 		#https://www.youtube.com/watch?v=TSBqJPLjNUQ
-		v = vid_module.Video()
+		v = models.Video()
 		v.evidence_id = vid_id
 		v.external_id = ext_id
 		v.url = "https://www.youtube.com/watch?v=" + data["items"][0]["id"]["videoId"]

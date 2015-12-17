@@ -1,0 +1,12 @@
+<html>
+<head>
+	<title>Police Cam Map</title>
+	{% for link in maphtml["head"] %}
+		{{link|safe}}
+	{% endfor %}
+</head>
+<body>
+	{% for child in maphtml["body"] %}
+		{{child|safe}}
+	{% endfor %}
+</body>
