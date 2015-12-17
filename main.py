@@ -15,17 +15,18 @@
 # limitations under the License.
 #
 import webapp2
-import json
-from google.appengine.ext import db
-import video_parser
+import jinja2
+import os
+import logging
+import vid_module
+import build_db
+
+JINJA_ENVIRONMENT = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
+    extensions=['jinja2.ext.autoescape'],
+    autoescape=True)
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-		video_data = video_parser.parse("data/video-data.json")
-		for item in video_data:
-			v = video_parser.Video()
-			v.vid_id = item[8].replace("-","")
-			v.put()
 		self.response.write('Hello world!')
 
 app = webapp2.WSGIApplication([
