@@ -6,3 +6,7 @@ class Video(db.Model):
 	evidence_id = db.StringProperty()
 	external_id = db.StringProperty()
 	url = db.StringProperty()
+	lat = db.FloatProperty()
+	longit = db.FloatProperty()
+	desc = db.StringProperty()
+	date = db.DateProperty()

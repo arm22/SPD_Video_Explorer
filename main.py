@@ -19,7 +19,9 @@ import jinja2
 import os
 import logging
 import vid_module
-import build_db
+#use these scripts to build the db
+#import build_db
+#build_db.build()
 
 JINJA_ENVIRONMENT = jinja2.Environment(loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
     extensions=['jinja2.ext.autoescape'],

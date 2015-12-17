@@ -1,5 +1,6 @@
 from google.appengine.ext import db
 import json, urllib
+from datetime import datetime
 import vid_module
 import keys
 
@@ -33,7 +34,7 @@ def youtubRequest(baseurl = 'https://www.googleapis.com/youtube/v3/search', api_
 	return safeGet(url)
 
 #Checks the conditions for a model and adds it to the datastore
-def makeObject(vid_id, ext_id):
+def makeObject(vid_id, ext_id, latitude, longitude, description, date):
 	vals = {}
 	vals['q'] = vid_id
 	data = json.load(youtubRequest(params=vals))
@@ -43,6 +44,10 @@ def makeObject(vid_id, ext_id):
 		v.evidence_id = vid_id
 		v.external_id = ext_id
 		v.url = "https://www.youtube.com/watch?v=" + data["items"][0]["id"]["videoId"]
+		v.lat = latitude
+		v.longit = longitude
+		v.desc = description
+		v.date = date
 		v.put()
 
 def build():
@@ -50,22 +55,31 @@ def build():
 	incident_data = parseFile("data/incident-response.json")
 	call_data = parseFile("data/911-response.json")
 	for item in video_data:
+		found = False
 		vid = item[8]
 		ext = item[9]
 		if ext is not None:
 			ext = ext.replace("-", "").replace(" ","")
-		found = False
 		for rec in call_data:
 			if rec[10] == ext:
 				found = True
-				print rec
-				makeObject(vid, ext)
+				coord = rec[22]
+				lat = float(coord[1].encode('utf-8'))
+				longit = float(coord[2].encode('utf-8'))
+				desc = rec[12]
+				dated = rec[26].encode('utf-8')
+				dated = datetime.strptime(dated, '%Y-%m-%dT%H:%M:%S').date()
+				makeObject(vid, ext, lat, longit, desc, dated)
 				break
 		if (found is False):
 			for x in incident_data:
 				if x[9] == ext:
 					found = True
-					print x
-					makeObject(vid, ext)
+					coord = x[24]
+					lat = float(coord[1].encode('utf-8'))
+					longit = float(coord[2].encode('utf-8'))
+					desc = x[14]
+					dated = x[15].encode('utf-8')
+					dated = datetime.strptime(dated, '%Y-%m-%dT%H:%M:%S').date()
+					makeObject(vid, ext, lat, longit, desc, dated)
 					break
-		
