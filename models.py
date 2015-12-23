@@ -9,4 +9,4 @@ class Video(db.Model):
 	lat = db.FloatProperty()
 	longit = db.FloatProperty()
 	desc = db.StringProperty()
-	date = db.DateProperty()
+	date = db.StringProperty()

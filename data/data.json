@@ -1,0 +1,3361 @@
+{
+	"data": [
+  {
+    "date": "2015-01-15",
+    "evidence_id": "72AD1C83-E58A-4AD6-B2CF-00FEC00CF225",
+    "url": "https://www.youtube.com/watch?v=4G-YPN4MLW8",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.621982311,
+    "external_id": "201516291",
+    "longit": -122.31992442
+  },
+  {
+    "date": "2015-02-11",
+    "evidence_id": "65E72257-6BEE-4F0E-B2AA-508E3A709C0F",
+    "url": "https://www.youtube.com/watch?v=7cmBw0du6j4",
+    "desc": "PARKS EXCLUSION",
+    "lat": 47.615838397,
+    "external_id": "201547953",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-02-27",
+    "evidence_id": "52FFA0C9-550C-4374-9593-1914B120427F",
+    "url": "https://www.youtube.com/watch?v=aya_hJlnW7k",
+    "desc": "TRESPASS",
+    "lat": 47.613519513,
+    "external_id": "201565785",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "49BDB2B5-4FF7-46E9-B6E9-248655DC0CA8",
+    "url": "https://www.youtube.com/watch?v=Ca5iNA0oHXg",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.622558496,
+    "external_id": "20154574",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-26",
+    "evidence_id": "5B635F72-649D-44CA-AB2F-965EECFA3FF3",
+    "url": "https://www.youtube.com/watch?v=CKkYdvMKlao",
+    "desc": null,
+    "lat": 47.600865293,
+    "external_id": "201529218",
+    "longit": -122.298406345
+  },
+  {
+    "date": "2015-03-08",
+    "evidence_id": "B829760D-545E-4B46-AF48-067666C3726E",
+    "url": "https://www.youtube.com/watch?v=w2U0uyU3efY",
+    "desc": "TRESPASS",
+    "lat": 47.60864269,
+    "external_id": "201576911",
+    "longit": -122.316779948
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "8FB8DE82-57BD-44A6-B9FE-690230D7AB63",
+    "url": "https://www.youtube.com/watch?v=iwc0OgIhHsY",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.605072898,
+    "external_id": "20159373",
+    "longit": -122.323543046
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "05192C1E-C9CD-4638-8848-8D7D34E65129",
+    "url": "https://www.youtube.com/watch?v=aNiREenhs90",
+    "desc": "GANG GRAFFITI",
+    "lat": 47.614074152,
+    "external_id": "201536692",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "D15DC04F-D69B-4A45-ABCA-CE336AFE4503",
+    "url": "https://www.youtube.com/watch?v=XLoE0aMmZH4",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.614074152,
+    "external_id": "201561621",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "E273CBE6-D06E-4F38-8FAB-456D0611FCEB",
+    "url": "https://www.youtube.com/watch?v=F9lQNSIcJRA",
+    "desc": "JUVENILE DISTURBANCE",
+    "lat": 47.593851626,
+    "external_id": "20151744",
+    "longit": -122.293904666
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "E2750BDE-0987-4299-A34F-7DDFF4CD7980",
+    "url": "https://www.youtube.com/watch?v=AmMIC1nwmXY",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "23AAD2B7-CB44-4BFD-A2F0-F10FA603265B",
+    "url": "https://www.youtube.com/watch?v=5Mf9-iX9eX8",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "71C6C590-34CA-408F-984D-7A769DE06347",
+    "url": "https://www.youtube.com/watch?v=4q7iSRExYS4",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.613519513,
+    "external_id": "201512537",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-05",
+    "evidence_id": "F5CC6E7A-607E-4560-A1CE-D93B87FC65AC",
+    "url": "https://www.youtube.com/watch?v=9UzlOI_c7tA",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.621075774,
+    "external_id": "201541301",
+    "longit": -122.32089215
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "2609FDEA-3D3F-4A88-97C7-6617871C01BD",
+    "url": "https://www.youtube.com/watch?v=g9lMTVgWx2A",
+    "desc": "TRESPASS",
+    "lat": 47.620242116,
+    "external_id": "201562883",
+    "longit": -122.325296756
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "FC6A1ED7-B721-4FA7-9F83-FF2BE975E807",
+    "url": "https://www.youtube.com/watch?v=witYz_HnrOc",
+    "desc": "RECKLESS BURNING",
+    "lat": 47.614004788,
+    "external_id": "20152902",
+    "longit": -122.313956723
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "070B2F6B-8966-4719-B819-BA904426CF49",
+    "url": "https://www.youtube.com/watch?v=Ro8GFHijbJ0",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.619922195,
+    "external_id": "201521773",
+    "longit": -122.318886615
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "1BED3A55-FEE7-48E1-939A-BDFEC329BB4C",
+    "url": "https://www.youtube.com/watch?v=hcutqGQB74I",
+    "desc": "PERSON WITH A GUN",
+    "lat": 47.600620584,
+    "external_id": "201569749",
+    "longit": -122.297891402
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "6190B9E9-59D0-4F53-984B-3408B3578EA6",
+    "url": "https://www.youtube.com/watch?v=7ufLaGe4MjY",
+    "desc": "ARMED ROBBERY",
+    "lat": 47.545804226,
+    "external_id": "2015934",
+    "longit": -122.327830246
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "8C6C3BE3-9AC6-4625-A7EB-A3EEF572B32E",
+    "url": "https://www.youtube.com/watch?v=gDSlYFOD4yc",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.623704451,
+    "external_id": "201535240",
+    "longit": -122.323048868
+  },
+  {
+    "date": "2015-02-17",
+    "evidence_id": "251CC7FF-84DA-471C-8ED7-FF5B5EC7A49C",
+    "url": "https://www.youtube.com/watch?v=2ZX7-McZq4w",
+    "desc": "SUSPICIOUS VEHICLE",
+    "lat": 47.621948759,
+    "external_id": "201554564",
+    "longit": -122.313146867
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "3DC92296-0245-4AE3-B3A7-C1CE964DBEF3",
+    "url": "https://www.youtube.com/watch?v=flfoT33PYMs",
+    "desc": "SUSPICIOUS VEHICLE",
+    "lat": 47.607995038,
+    "external_id": "2015339",
+    "longit": -122.296255391
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "719F641E-B40B-4941-84DF-0821E1B150B7",
+    "url": "https://www.youtube.com/watch?v=Rjb08N0a2wU",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619943565,
+    "external_id": "201519884",
+    "longit": -122.315619997
+  },
+  {
+    "date": "2015-03-15",
+    "evidence_id": "09F4B2DE-01BD-475B-ACF2-118442D0FBE2",
+    "url": "https://www.youtube.com/watch?v=WCRyh2-uJj8",
+    "desc": "THEFT - MISCELLANEOUS",
+    "lat": 47.622558496,
+    "external_id": "201585249",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-13",
+    "evidence_id": "08887BC4-C1BA-4362-951E-8180323D7ACB",
+    "url": "https://www.youtube.com/watch?v=5VyRTqgIazY",
+    "desc": "BURGLARY - RESIDENTIAL, UNOCCUPIED",
+    "lat": 47.618730297,
+    "external_id": "201513200",
+    "longit": -122.322862026
+  },
+  {
+    "date": "2015-02-07",
+    "evidence_id": "EC5615F5-8CA9-4C66-8502-3F3ED6BCE601",
+    "url": "https://www.youtube.com/watch?v=oa-eESTw9Cg",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614121267,
+    "external_id": "201543243",
+    "longit": -122.314225431
+  },
+  {
+    "date": "2015-02-25",
+    "evidence_id": "DD1BB3E7-C736-4050-9A86-0C2F0CE0364F",
+    "url": "https://www.youtube.com/watch?v=8XA1JUgaJy4",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.604128076,
+    "external_id": "201563565",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "CA2C920A-7EEF-4FA1-B567-13920E3C3209",
+    "url": "https://www.youtube.com/watch?v=gTlBUQCyTqk",
+    "desc": "MENTAL COMPLAINT",
+    "lat": 47.604839562,
+    "external_id": "20153978",
+    "longit": -122.324097254
+  },
+  {
+    "date": "2015-01-23",
+    "evidence_id": "BF528327-6700-4A37-935F-5B31160C61B0",
+    "url": "https://www.youtube.com/watch?v=5DMznpVSf18",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.613528372,
+    "external_id": "201525589",
+    "longit": -122.32342026
+  },
+  {
+    "date": "2015-03-04",
+    "evidence_id": "544FF44D-2ECD-421F-BE00-F9E22F3B36F0",
+    "url": "https://www.youtube.com/watch?v=LQsLKKEXSlw",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.621985884,
+    "external_id": "201572155",
+    "longit": -122.320910062
+  },
+  {
+    "date": "2015-01-08",
+    "evidence_id": "B8EF86AB-DF9A-4DDB-A773-F732DA7621A0",
+    "url": "https://www.youtube.com/watch?v=8zPXIdvMfs0",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.621987761,
+    "external_id": "20158595",
+    "longit": -122.324665039
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "3FA740DD-7A54-457D-9DCD-200062B2B4FB",
+    "url": "https://www.youtube.com/watch?v=u2fAfmRS67M",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.614117531,
+    "external_id": "201536165",
+    "longit": -122.314877036
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "1D11CE88-DA41-4940-BC0A-8F09E03DEACD",
+    "url": "https://www.youtube.com/watch?v=rmIqUNBiiws",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.595077194,
+    "external_id": "201557607",
+    "longit": -122.302220078
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "DD5E19E2-B88E-4FC8-A9D1-F78C3534B1A5",
+    "url": "https://www.youtube.com/watch?v=wqMGD-fBBNc",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.600005439,
+    "external_id": "20151089",
+    "longit": -122.315911585
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "FCFD6B22-C95E-433F-8BD1-3C125741DBCC",
+    "url": "https://www.youtube.com/watch?v=fRaQLrI_IbA",
+    "desc": "TRESPASS",
+    "lat": 47.622558496,
+    "external_id": "201520685",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "E1519E0B-703B-42D9-A51B-8CAA7871A4B0",
+    "url": "https://www.youtube.com/watch?v=6sA6F65k0lc",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.615259165,
+    "external_id": "201582990",
+    "longit": -122.317506808
+  },
+  {
+    "date": "2015-01-11",
+    "evidence_id": "8DCDEE59-C6A6-4E24-AF35-554FC6005EF9",
+    "url": "https://www.youtube.com/watch?v=-FBWnTMecHs",
+    "desc": "RECKLESS ENDANGERMENT, LITTERING, PARKS CODE VIOLATIONS",
+    "lat": 47.614064988,
+    "external_id": "201511483",
+    "longit": -122.322110996
+  },
+  {
+    "date": "2015-02-02",
+    "evidence_id": "8C71A486-5E16-402D-BC7E-DA440865D0F5",
+    "url": "https://www.youtube.com/watch?v=oJ2QWDMLrts",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.604128076,
+    "external_id": "201537237",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "815FE23B-6E51-4213-9334-B32B138EE5DC",
+    "url": "https://www.youtube.com/watch?v=ZaXWljnfp_Y",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.615838397,
+    "external_id": "201562688",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "3C4F3DFD-8F1C-4ECF-A4CD-C747A02CE158",
+    "url": "https://www.youtube.com/watch?v=NcnXdqQWM5s",
+    "desc": null,
+    "lat": 47.614070934,
+    "external_id": "20152533",
+    "longit": -122.321445646
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "95C15160-91F8-451C-92AF-F406737FA2F3",
+    "url": "https://www.youtube.com/watch?v=y6MzrCIdyMc",
+    "desc": "CASUALTY - DRUG RELATED (OVERDOSE, OTHER)",
+    "lat": 47.613496501,
+    "external_id": "201520976",
+    "longit": -122.316784623
+  },
+  {
+    "date": "2015-03-01",
+    "evidence_id": "9F7A0450-3582-40FD-9A58-130C7F5A0A9F",
+    "url": "https://www.youtube.com/watch?v=P-JMpndByHU",
+    "desc": "PARKING VIOLATION (EXCEPT ABANDONED VEHICLES)",
+    "lat": 47.619343094,
+    "external_id": "201568306",
+    "longit": -122.318224645
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "F5DE3A05-1679-45B1-B4F2-C36EF67D3127",
+    "url": "https://www.youtube.com/watch?v=GAWOfNLeyXc",
+    "desc": "WARRANT ARREST",
+    "lat": 47.602196831,
+    "external_id": "20155783",
+    "longit": -122.320738627
+  },
+  {
+    "date": "2015-01-30",
+    "evidence_id": "D4F7A50B-1DC4-4636-B27F-F2E2106EB99E",
+    "url": "https://www.youtube.com/watch?v=vTfFIzfF5dc",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.615838397,
+    "external_id": "201534419",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-02-13",
+    "evidence_id": "305E1640-994A-429E-8D6D-B4D03F590E02",
+    "url": "https://www.youtube.com/watch?v=ABTF0Oq5tQo",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.621531972,
+    "external_id": "201550453",
+    "longit": -122.320898932
+  },
+  {
+    "date": "2015-01-16",
+    "evidence_id": "C5185C72-2AE0-4476-A403-2D01B06E42D2",
+    "url": "https://www.youtube.com/watch?v=-mVN402O2oI",
+    "desc": "SUSPICIOUS VEHICLE",
+    "lat": 47.614004788,
+    "external_id": "201517803",
+    "longit": -122.313956723
+  },
+  {
+    "date": "2015-03-16",
+    "evidence_id": "B1BA626C-9F8B-4D2B-9255-A9B8CD31ED71",
+    "url": "https://www.youtube.com/watch?v=mbckW2JfIrc",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.604609022,
+    "external_id": "201585810",
+    "longit": -122.324652123
+  },
+  {
+    "date": "2015-01-13",
+    "evidence_id": "97A9F4A1-D6F7-4CE0-AE2D-7473E2001ACB",
+    "url": "https://www.youtube.com/watch?v=92mqSljFctw",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.613519513,
+    "external_id": "201513886",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-08",
+    "evidence_id": "55A030BD-F1F9-4D21-81FB-5932B7446F0F",
+    "url": "https://www.youtube.com/watch?v=g6j3FwxIWjI",
+    "desc": "ASSAULT",
+    "lat": 47.659054982,
+    "external_id": "201544490",
+    "longit": -122.313187754
+  },
+  {
+    "date": "2015-02-26",
+    "evidence_id": "395CD64C-D7A9-4F08-A5E9-537F6E7BE1A2",
+    "url": "https://www.youtube.com/watch?v=RN6FvR6JgyU",
+    "desc": "DISTURBANCE",
+    "lat": 47.596647705,
+    "external_id": "201564563",
+    "longit": -122.310280931
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "D8725849-2586-40AC-BE03-79B93DF99D1F",
+    "url": "https://www.youtube.com/watch?v=DfVva102CFU",
+    "desc": "SHOPLIFT",
+    "lat": 47.622558496,
+    "external_id": "20154501",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-26",
+    "evidence_id": "5BDC30EB-454A-4BD3-8AAE-48FD611FF32F",
+    "url": "https://www.youtube.com/watch?v=JV4z8E4CA1k",
+    "desc": "DISTURBANCE",
+    "lat": 47.614646136,
+    "external_id": "201528422",
+    "longit": -122.322120418
+  },
+  {
+    "date": "2015-03-08",
+    "evidence_id": "0B663063-0DEE-4915-ADB3-FE18D6682F9E",
+    "url": "https://www.youtube.com/watch?v=lZVl7Tpp-Gs",
+    "desc": "PROPERTY DAMAGE",
+    "lat": 47.615862547,
+    "external_id": "201576746",
+    "longit": -122.309496855
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "0F2277B6-52B6-4959-9B82-17ADC81CB0FD",
+    "url": "https://www.youtube.com/watch?v=Io41kgzJOTA",
+    "desc": "BURGLARY - RESIDENTIAL, OCCUPIED",
+    "lat": 47.63049105,
+    "external_id": "20159139",
+    "longit": -122.321790912
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "A92BAC82-453C-4F9E-A162-867B3BC1FAFA",
+    "url": "https://www.youtube.com/watch?v=hE3A7HaxYYc",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.617074328,
+    "external_id": "201536253",
+    "longit": -122.326820196
+  },
+  {
+    "date": "2015-02-20",
+    "evidence_id": "CF539E8D-C357-44C3-BE28-1D01529DC223",
+    "url": "https://www.youtube.com/watch?v=EZpGGs8MtH4",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.622558496,
+    "external_id": "201558657",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "BC9B3C7E-8A1F-4930-8EBF-34F92CDFAA48",
+    "url": "https://www.youtube.com/watch?v=izghdhvL7lc",
+    "desc": "AUTO THEFT",
+    "lat": 47.591606254,
+    "external_id": "20151345",
+    "longit": -122.31236483
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "7AB1F1FE-232D-4B15-AA13-DFA56369F0FC",
+    "url": "https://www.youtube.com/watch?v=SyKBwkQu9jA",
+    "desc": "OBSTRUCT",
+    "lat": 47.624264359,
+    "external_id": "201520957",
+    "longit": -122.334286692
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "532643E6-FF37-4AC2-9268-E655A45A5123",
+    "url": "https://www.youtube.com/watch?v=jmxJGSDleeU",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.623131376,
+    "external_id": "201583219",
+    "longit": -122.322009496
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "CA337D37-E8F2-491F-9519-45129D76A744",
+    "url": "https://www.youtube.com/watch?v=stslIOtA-XI",
+    "desc": "THEFT - MISCELLANEOUS",
+    "lat": 47.622558496,
+    "external_id": "201512144",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-02-03",
+    "evidence_id": "F54D7D15-B69E-49CD-9AE7-9F43FC71687A",
+    "url": "https://www.youtube.com/watch?v=Q4Sk6OcZc_U",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.613519513,
+    "external_id": "201538315",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "D29C6EE7-A6A2-494A-A2F5-90DAF88A0EC6",
+    "url": "https://www.youtube.com/watch?v=RmfwFuWcpzg",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.622558496,
+    "external_id": "201562712",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "6F261401-75CD-4517-96F3-F627788158D0",
+    "url": "https://www.youtube.com/watch?v=2BBs-9kk0mo",
+    "desc": "MENTAL COMPLAINT",
+    "lat": 47.603091545,
+    "external_id": "20152663",
+    "longit": -122.305041618
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "5CB3BB2C-C808-40A2-8AAC-65980ADDBC87",
+    "url": "https://www.youtube.com/watch?v=daQ_kSDWJx0",
+    "desc": null,
+    "lat": 47.626759017,
+    "external_id": "201521367",
+    "longit": -122.30238453
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "C5D5C3F5-502C-4FDF-BE69-CA9AAFED687B",
+    "url": "https://www.youtube.com/watch?v=wge-bQXKIbE",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.61467441,
+    "external_id": "201569457",
+    "longit": -122.318150196
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "45707BE1-3197-4A94-9625-6DC458B6AE31",
+    "url": "https://www.youtube.com/watch?v=3lPAcN2vr1c",
+    "desc": "TRESPASS",
+    "lat": 47.626144565,
+    "external_id": "20155837",
+    "longit": -122.320223033
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "467509B8-7073-4578-ABC6-A4D47EDC4832",
+    "url": "https://www.youtube.com/watch?v=siEfHJrCJ1o",
+    "desc": "PARKING VIOLATION (EXCEPT ABANDONED VEHICLES)",
+    "lat": 47.615857114,
+    "external_id": "201535020",
+    "longit": -122.315557918
+  },
+  {
+    "date": "2015-02-14",
+    "evidence_id": "B5251846-3AEF-450B-B3A4-860372A1B035",
+    "url": "https://www.youtube.com/watch?v=xAHGk8SGH0s",
+    "desc": "BURGLARY-SECURE PARKING-RES",
+    "lat": 47.619343094,
+    "external_id": "201551847",
+    "longit": -122.318224645
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "9C3A2073-E935-4774-9020-2501C56B8EF5",
+    "url": "https://www.youtube.com/watch?v=s9hgbwLfI6Y",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614092169,
+    "external_id": "201530",
+    "longit": -122.318141828
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "9D5548B9-B74F-4A9E-ADEC-1F720D87263D",
+    "url": "https://www.youtube.com/watch?v=ymwjmwP70lQ",
+    "desc": null,
+    "lat": 47.615218462,
+    "external_id": "201519707",
+    "longit": -122.325530089
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "F185D283-F5FE-4A1E-8BCB-86F67264E0D5",
+    "url": "https://www.youtube.com/watch?v=mGolgPK-OYQ",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "235ACFB4-EE41-4E79-94EC-AD2447F381DD",
+    "url": "https://www.youtube.com/watch?v=uSqbwbh9Nc0",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.614091488,
+    "external_id": "201512680",
+    "longit": -122.324986079
+  },
+  {
+    "date": "2015-02-06",
+    "evidence_id": "F264E25C-DE63-4D9B-BC40-A3C064147B3D",
+    "url": "https://www.youtube.com/watch?v=6j_SHvDY0Ro",
+    "desc": null,
+    "lat": 47.619038674,
+    "external_id": "201542099",
+    "longit": -122.327853792
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "7D974ADF-541F-4449-8967-3BB3668800CC",
+    "url": "https://www.youtube.com/watch?v=0va-H57VtcQ",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.619038674,
+    "external_id": "201563093",
+    "longit": -122.327853792
+  },
+  {
+    "date": "2015-01-04",
+    "evidence_id": "956F0718-F805-44A8-8876-5BC7D5B30648",
+    "url": "https://www.youtube.com/watch?v=V-SxJPlmiGQ",
+    "desc": "FIGHT DISTURBANCE",
+    "lat": 47.613519513,
+    "external_id": "20153096",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-01-21",
+    "evidence_id": "A6878CAD-5A13-4D33-89C6-ACBE4BA422A9",
+    "url": "https://www.youtube.com/watch?v=eRO_4UW_TmA",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.614103711,
+    "external_id": "201522619",
+    "longit": -122.316836415
+  },
+  {
+    "date": "2015-03-03",
+    "evidence_id": "43FCD3CE-7665-44AA-A949-A5E431537E63",
+    "url": "https://www.youtube.com/watch?v=en-SjFVEHCM",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.615838397,
+    "external_id": "201570923",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-08",
+    "evidence_id": "031D56B1-A51C-4497-B5C1-F88FCF65FA32",
+    "url": "https://www.youtube.com/watch?v=m7rVwc_lGV4",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.604878756,
+    "external_id": "20157963",
+    "longit": -122.320746822
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "8FCDC974-92EC-4341-879D-7BFC721F5A75",
+    "url": "https://www.youtube.com/watch?v=_xjdKkkAcXE",
+    "desc": "FIGHT DISTURBANCE",
+    "lat": 47.624661693,
+    "external_id": "201536114",
+    "longit": -122.320936668
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "510C64C4-F8D3-4C90-A997-9EC3397F5300",
+    "url": "https://www.youtube.com/watch?v=BE-Pl9nv_Zg",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.599230435,
+    "external_id": "201557531",
+    "longit": -122.297415742
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "F9360446-E0B1-4026-AD64-0D91557D5CB4",
+    "url": "https://www.youtube.com/watch?v=0ZE1eSuyMJg",
+    "desc": "THEFT - MISCELLANEOUS",
+    "lat": 47.636769325,
+    "external_id": "2015756",
+    "longit": -122.324377033
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "2E5A2B40-D809-4D4E-80A2-9245D7B35D7B",
+    "url": "https://www.youtube.com/watch?v=uVhEamwYwwY",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619943565,
+    "external_id": "201519884",
+    "longit": -122.315619997
+  },
+  {
+    "date": "2015-03-09",
+    "evidence_id": "2C2986B0-2EBA-49EE-BD52-AD45381CABB2",
+    "url": "https://www.youtube.com/watch?v=F8xuINA0MN8",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.615838397,
+    "external_id": "201577798",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-10",
+    "evidence_id": "417B9F50-E393-4C78-B5CC-E7C87CD8C621",
+    "url": "https://www.youtube.com/watch?v=6wjDXEJnmjY",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.615264966,
+    "external_id": "201510575",
+    "longit": -122.307445273
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "798FCBEE-C6F2-4631-9DDC-2DBA3D82C019",
+    "url": "https://www.youtube.com/watch?v=zES-dXdDGEk",
+    "desc": "GANG GRAFFITI",
+    "lat": 47.614074152,
+    "external_id": "201536692",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "B9311F9A-2459-4906-8AD1-35DE5C5FE144",
+    "url": "https://www.youtube.com/watch?v=AwI1V5FoDKE",
+    "desc": "TRESPASS",
+    "lat": 47.619323645,
+    "external_id": "201561912",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "2F5B3A8E-FC99-42CB-B7B8-984A39A40D97",
+    "url": "https://www.youtube.com/watch?v=xGAXQcMFMl0",
+    "desc": "TRESPASS",
+    "lat": 47.619274459,
+    "external_id": "20152264",
+    "longit": -122.324829065
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "638B9BC0-550E-4E37-AE7D-EF945B621FAD",
+    "url": "https://www.youtube.com/watch?v=L1dJYtzfFPM",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-02-28",
+    "evidence_id": "5082D8F2-54B5-45BD-837C-A94B496DAAF9",
+    "url": "https://www.youtube.com/watch?v=oJIDi1o91ho",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614653141,
+    "external_id": "201567111",
+    "longit": -122.326812329
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "8E4ACAB4-C751-4923-B324-4B5076426B46",
+    "url": "https://www.youtube.com/watch?v=xPPU74El8O0",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.616422372,
+    "external_id": "20155579",
+    "longit": -122.318179942
+  },
+  {
+    "date": "2015-01-27",
+    "evidence_id": "D9CAA168-7E6B-4B1C-B396-F36A2BAF632F",
+    "url": "https://www.youtube.com/watch?v=nXkpEHJi-zg",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.604839562,
+    "external_id": "201529689",
+    "longit": -122.324097254
+  },
+  {
+    "date": "2015-02-12",
+    "evidence_id": "D6D3D6B0-ECF9-4902-BE61-FB3F1956DC79",
+    "url": "https://www.youtube.com/watch?v=9DdvO1hm0KE",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.620491806,
+    "external_id": "201549207",
+    "longit": -122.320882283
+  },
+  {
+    "date": "2015-01-16",
+    "evidence_id": "CE3612E8-89D7-425F-8B59-47D0A547266B",
+    "url": "https://www.youtube.com/watch?v=xYfhd2xBEcw",
+    "desc": "ACCIDENT INVESTIGATION",
+    "lat": 47.604128076,
+    "external_id": "201517001",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-03-16",
+    "evidence_id": "F0ACB836-D4DA-48EF-8462-A38A49C2C66C",
+    "url": "https://www.youtube.com/watch?v=d2RbamPz23s",
+    "desc": "NARCOTICS",
+    "lat": 47.615251763,
+    "external_id": "201586347",
+    "longit": -122.318162755
+  },
+  {
+    "date": "2015-01-14",
+    "evidence_id": "BBB4B3F0-17D1-4B38-B372-3D70F8FDDB38",
+    "url": "https://www.youtube.com/watch?v=c0st35DU0TE",
+    "desc": "FRAUD",
+    "lat": 47.619323645,
+    "external_id": "201514929",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-02-08",
+    "evidence_id": "3079BD43-243A-41EC-910E-942DAB2C4595",
+    "url": "https://www.youtube.com/watch?v=VRut3-5b2BY",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.5955682,
+    "external_id": "201544517",
+    "longit": -122.30222574
+  },
+  {
+    "date": "2015-02-26",
+    "evidence_id": "B6922705-AF31-4384-B00C-E7E1E70F4CB7",
+    "url": "https://www.youtube.com/watch?v=-LvC2TLXuCE",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.619323645,
+    "external_id": "201565298",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "22D14286-D6BF-4F0F-82C5-A7BEEB0EC297",
+    "url": "https://www.youtube.com/watch?v=bHdCqagAsIA",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.622558496,
+    "external_id": "20154574",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-26",
+    "evidence_id": "03AA483E-B398-4833-B88B-083B4175C055",
+    "url": "https://www.youtube.com/watch?v=0hZ6j7H_2q4",
+    "desc": null,
+    "lat": 47.600865293,
+    "external_id": "201529218",
+    "longit": -122.298406345
+  },
+  {
+    "date": "2015-03-08",
+    "evidence_id": "E0D7341A-F43D-4C9D-8676-FAB53198A8F3",
+    "url": "https://www.youtube.com/watch?v=_iQzH7s_V0s",
+    "desc": null,
+    "lat": 47.604128076,
+    "external_id": "201576825",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "3549772F-1308-42C6-914B-ED45B6E56E74",
+    "url": "https://www.youtube.com/watch?v=VJrOXeeQTFg",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.615838397,
+    "external_id": "20159305",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "CE47EB4F-459A-49EA-9D26-40BA38147576",
+    "url": "https://www.youtube.com/watch?v=y70wnSm0oaM",
+    "desc": "WARRANT ARREST",
+    "lat": 47.614070934,
+    "external_id": "201536511",
+    "longit": -122.321445646
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "7FB02DB7-4EF1-4F7A-A664-5A16F8D22651",
+    "url": "https://www.youtube.com/watch?v=4SiIGfNIeOc",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.619323645,
+    "external_id": "201561579",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "61C7B205-76D1-439C-A660-2398C5DE3607",
+    "url": "https://www.youtube.com/watch?v=lHWIWsFmvCc",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.613893713,
+    "external_id": "20151408",
+    "longit": -122.314223009
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "5A18C1E8-F8B0-44AA-8D99-EC92CDCE7816",
+    "url": "https://www.youtube.com/watch?v=yHH6Nff1mnw",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.623162169,
+    "external_id": "201520952",
+    "longit": -122.334279225
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "0594CB28-8DCF-42B7-A6E0-561272DE172E",
+    "url": "https://www.youtube.com/watch?v=dsw28lDjFN4",
+    "desc": "TRESPASS",
+    "lat": 47.613465763,
+    "external_id": "201584214",
+    "longit": -122.32891446
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "D06DD3CF-936C-46D8-94F7-2F42FD424A07",
+    "url": "https://www.youtube.com/watch?v=JzpzM4TNvCU",
+    "desc": "TRESPASS",
+    "lat": 47.613519513,
+    "external_id": "201512152",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-05",
+    "evidence_id": "F31AFF4A-6EB1-45CA-B717-4768B28B72F9",
+    "url": "https://www.youtube.com/watch?v=HCvcjxIsO4Y",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.621075774,
+    "external_id": "201541301",
+    "longit": -122.32089215
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "97946E6E-4E02-4218-8DC7-63AC5A252EB3",
+    "url": "https://www.youtube.com/watch?v=vB1SQ_is7GI",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.615233745,
+    "external_id": "201562698",
+    "longit": -122.320802171
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "6B921BD9-EBBC-4675-B051-895EC22E2DB6",
+    "url": "https://www.youtube.com/watch?v=Vw-XkmUcfLA",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.607216742,
+    "external_id": "20152885",
+    "longit": -122.320755462
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "C1A5BBBE-ED05-4036-91BB-C4E058A5FC73",
+    "url": "https://www.youtube.com/watch?v=2rfzdY6CdHc",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.619922195,
+    "external_id": "201521773",
+    "longit": -122.318886615
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "2BCE738F-1369-4D1B-8C6C-3368ADE5DB69",
+    "url": "https://www.youtube.com/watch?v=FrDKSDZ8mSc",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.61467441,
+    "external_id": "201569457",
+    "longit": -122.318150196
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "DD4A9B5F-4241-4504-87A9-0EFA596DFC33",
+    "url": "https://www.youtube.com/watch?v=v9rQaoNZF0c",
+    "desc": "ARMED ROBBERY",
+    "lat": 47.545804226,
+    "external_id": "2015934",
+    "longit": -122.327830246
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "8DFA5876-578D-4C44-9B32-19ACD8ADAB09",
+    "url": "https://www.youtube.com/watch?v=JWLOI5W5Ads",
+    "desc": "PROPERTY DESTRUCTION",
+    "lat": 47.608000914,
+    "external_id": "201535065",
+    "longit": -122.300058777
+  },
+  {
+    "date": "2015-02-14",
+    "evidence_id": "5489FA11-3457-4A45-8EF0-E24AFC0871B0",
+    "url": "https://www.youtube.com/watch?v=ZvGYHQBqv_k",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.60433044,
+    "external_id": "201552193",
+    "longit": -122.306344945
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "8FCF6D3A-1F86-4C3E-99A3-DC531908A686",
+    "url": "https://www.youtube.com/watch?v=E_Ou_jGc75E",
+    "desc": "PROPERTY DESTRUCTION",
+    "lat": 47.620747059,
+    "external_id": "2015141",
+    "longit": -122.293466326
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "86DEF737-BE3C-4618-92D8-DA1BE5C8ADDD",
+    "url": "https://www.youtube.com/watch?v=F7sY7yF-7ro",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619943565,
+    "external_id": "201519884",
+    "longit": -122.315619997
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "3EBD6894-E41B-4240-93CB-3D7FEC890477",
+    "url": "https://www.youtube.com/watch?v=_zGdohzxO0w",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "4282B8C2-9E06-4B5E-B1FA-30BB77670AE6",
+    "url": "https://www.youtube.com/watch?v=e8OAPXl0a10",
+    "desc": "MENTAL COMPLAINT",
+    "lat": 47.613465763,
+    "external_id": "201512867",
+    "longit": -122.32891446
+  },
+  {
+    "date": "2015-02-06",
+    "evidence_id": "CE24FA2A-42F8-43CE-AC31-5EB582C39754",
+    "url": "https://www.youtube.com/watch?v=s2O1CgITups",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.614655488,
+    "external_id": "201542336",
+    "longit": -122.320789515
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "01B99C8C-05FE-4337-ACB6-FD068BC91856",
+    "url": "https://www.youtube.com/watch?v=F2yCj80pNH4",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.619038674,
+    "external_id": "201563093",
+    "longit": -122.327853792
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "6511A15E-C2B1-412A-B755-02FF852E126E",
+    "url": "https://www.youtube.com/watch?v=O9Ah-oYjXTM",
+    "desc": "MENTAL COMPLAINT",
+    "lat": 47.604839562,
+    "external_id": "20153978",
+    "longit": -122.324097254
+  },
+  {
+    "date": "2015-01-21",
+    "evidence_id": "705E0D05-EA2E-4368-A8D6-8BA2DF4F3E6D",
+    "url": "https://www.youtube.com/watch?v=2nMMyzjH0tc",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.622558496,
+    "external_id": "201523474",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-03-03",
+    "evidence_id": "5D913E86-FE2E-4DC5-9672-D62E69BF0F48",
+    "url": "https://www.youtube.com/watch?v=3Sa5DWaypK4",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.619905164,
+    "external_id": "201571037",
+    "longit": -122.320874901
+  },
+  {
+    "date": "2015-01-08",
+    "evidence_id": "A9AD1098-3554-4346-9644-06E6A62357F8",
+    "url": "https://www.youtube.com/watch?v=u5hPfUB12Kk",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.606016329,
+    "external_id": "20158427",
+    "longit": -122.323644427
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "640F2A37-16AE-4872-9DF9-747E2752E48C",
+    "url": "https://www.youtube.com/watch?v=Jgq03xKti60",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.614117531,
+    "external_id": "201536165",
+    "longit": -122.314877036
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "043032EC-E07A-41AD-B183-ECB69BD40356",
+    "url": "https://www.youtube.com/watch?v=Jsq9s0ZW1co",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.595077194,
+    "external_id": "201557607",
+    "longit": -122.302220078
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "8903E620-C8F4-437B-88D1-14BFA35F1D4E",
+    "url": "https://www.youtube.com/watch?v=_0bUCbqy434",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.600005439,
+    "external_id": "20151089",
+    "longit": -122.315911585
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "378A0AC1-4CB5-476E-9709-6CC757B325EE",
+    "url": "https://www.youtube.com/watch?v=584ykZqffwQ",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614057458,
+    "external_id": "201520132",
+    "longit": -122.322757495
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "A17CFCC3-BABC-466F-A04A-0B691CD27A4A",
+    "url": "https://www.youtube.com/watch?v=vLeDOctnn-Y",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.615259165,
+    "external_id": "201582990",
+    "longit": -122.317506808
+  },
+  {
+    "date": "2015-01-11",
+    "evidence_id": "A88174A7-B184-45D7-B3BE-F2947FC8BA39",
+    "url": "https://www.youtube.com/watch?v=3eSGiCqLlP4",
+    "desc": "RECKLESS ENDANGERMENT, LITTERING, PARKS CODE VIOLATIONS",
+    "lat": 47.614064988,
+    "external_id": "201511483",
+    "longit": -122.322110996
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "FBD91D3A-30F1-4776-B23C-7646DB3902AE",
+    "url": "https://www.youtube.com/watch?v=UyjaPep47u0",
+    "desc": "GANG GRAFFITI",
+    "lat": 47.614074152,
+    "external_id": "201536692",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "BD1EAFE0-56C5-4C7A-8B3B-BE142D852902",
+    "url": "https://www.youtube.com/watch?v=nlHbRvVomLk",
+    "desc": "TRESPASS",
+    "lat": 47.619323645,
+    "external_id": "201561912",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "1899A1E9-B220-4539-9A17-F8D4393E0479",
+    "url": "https://www.youtube.com/watch?v=XT3bzwWVyC0",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.611228666,
+    "external_id": "20152461",
+    "longit": -122.325334573
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "5461CF93-11D4-4439-84C3-D888F75BADED",
+    "url": "https://www.youtube.com/watch?v=pC7FdcVKFOs",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-02-28",
+    "evidence_id": "29D80311-934B-45E7-988F-9068395C1243",
+    "url": "https://www.youtube.com/watch?v=hbzyFvEyVd8",
+    "desc": "AUTO THEFT",
+    "lat": 47.619902974,
+    "external_id": "201567126",
+    "longit": -122.321539446
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "AB8F5CE5-9238-4624-B8E8-A7DBD88B16E6",
+    "url": "https://www.youtube.com/watch?v=4T8v4CcIbZs",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.614646136,
+    "external_id": "20155768",
+    "longit": -122.322120418
+  },
+  {
+    "date": "2015-01-27",
+    "evidence_id": "85254586-6760-4272-B52F-E01CEE2D5F07",
+    "url": "https://www.youtube.com/watch?v=9Xo2K-4_WRg",
+    "desc": "TRESPASS",
+    "lat": 47.608657488,
+    "external_id": "201529920",
+    "longit": -122.320755784
+  },
+  {
+    "date": "2015-02-12",
+    "evidence_id": "F1C12E8D-6753-40F3-8B44-81310604896A",
+    "url": "https://www.youtube.com/watch?v=TSXJPynSYBY",
+    "desc": "LIQUOR VIOLATION - INTOXICATED PERSON",
+    "lat": 47.61586163,
+    "external_id": "201549424",
+    "longit": -122.311458884
+  },
+  {
+    "date": "2015-01-16",
+    "evidence_id": "45557570-AFE6-4666-A06B-B9C2ED489590",
+    "url": "https://www.youtube.com/watch?v=A_n-EhTdhVc",
+    "desc": null,
+    "lat": 47.640878399,
+    "external_id": "201517027",
+    "longit": -122.324675885
+  },
+  {
+    "date": "2015-03-15",
+    "evidence_id": "7C40C162-111B-47A6-B475-0D9E01ECB9C5",
+    "url": "https://www.youtube.com/watch?v=-kYV1j67ijY",
+    "desc": "THEFT - MISCELLANEOUS",
+    "lat": 47.622558496,
+    "external_id": "201585249",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-13",
+    "evidence_id": "D7504E06-87BF-4819-8271-D002DB138ECF",
+    "url": "https://www.youtube.com/watch?v=U_AhlPFzFeI",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.622558496,
+    "external_id": "201513703",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-02-08",
+    "evidence_id": "0A263943-8A3E-45ED-9A9D-7E00C46FBE1F",
+    "url": "https://www.youtube.com/watch?v=zAdet5I6wLw",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614092169,
+    "external_id": "201544233",
+    "longit": -122.318141828
+  },
+  {
+    "date": "2015-02-25",
+    "evidence_id": "C7B60989-E5E1-4F90-B606-F182E6C76066",
+    "url": "https://www.youtube.com/watch?v=lCt7BdyzFBA",
+    "desc": "TRESPASS",
+    "lat": 47.615819312,
+    "external_id": "201564049",
+    "longit": -122.320807888
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "3BE7CD95-7B09-4792-969D-0E814C2FFD03",
+    "url": "https://www.youtube.com/watch?v=wL7iLQYaycY",
+    "desc": "SHOPLIFT",
+    "lat": 47.622558496,
+    "external_id": "20154501",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-17",
+    "evidence_id": "86C7B9DD-5697-4F2C-8B97-543075FF8C69",
+    "url": "https://www.youtube.com/watch?v=2W9wQ2PXuvQ",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.615242947,
+    "external_id": "201518880",
+    "longit": -122.319468275
+  },
+  {
+    "date": "2015-03-04",
+    "evidence_id": "66580891-C1C1-44CE-9317-4F69E62899FE",
+    "url": "https://www.youtube.com/watch?v=T6vqAAq7hpQ",
+    "desc": "TRESPASS",
+    "lat": 47.622563354,
+    "external_id": "201572198",
+    "longit": -122.322016608
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "544613CF-A295-4BD4-B596-CE94F5DDF07D",
+    "url": "https://www.youtube.com/watch?v=fH8LbAs6xCQ",
+    "desc": "TRESPASS",
+    "lat": 47.608017977,
+    "external_id": "20158890",
+    "longit": -122.322398653
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "A190553E-CF69-4C45-8E02-6695799EAB06",
+    "url": "https://www.youtube.com/watch?v=OHW3fg3BFHs",
+    "desc": "NOISE DISTURBANCE",
+    "lat": 47.595153077,
+    "external_id": "201536188",
+    "longit": -122.309668884
+  },
+  {
+    "date": "2015-02-20",
+    "evidence_id": "2415DEAA-C920-4D76-B55F-5069A150348A",
+    "url": "https://www.youtube.com/watch?v=luCo-ByGaks",
+    "desc": "STRONG ARM ROBBERY",
+    "lat": 47.61466515,
+    "external_id": "201558000",
+    "longit": -122.319456132
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "5D8F1720-BE1F-46A5-AD04-B14601D74078",
+    "url": "https://www.youtube.com/watch?v=rlmupC158LU",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.600005439,
+    "external_id": "20151089",
+    "longit": -122.315911585
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "74E2D0D1-7D8C-4233-8C48-10C3A88A3FBE",
+    "url": "https://www.youtube.com/watch?v=LuGCRjhikVs",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.623162169,
+    "external_id": "201520952",
+    "longit": -122.334279225
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "3C445987-6944-40FB-B866-D73261CE98B9",
+    "url": "https://www.youtube.com/watch?v=uyASoK9ao4M",
+    "desc": "PROPERTY DESTRUCTION",
+    "lat": 47.616409047,
+    "external_id": "201583154",
+    "longit": -122.320034816
+  },
+  {
+    "date": "2015-01-11",
+    "evidence_id": "1D989876-1CBD-4B0E-80B9-22E55DF8DAA8",
+    "url": "https://www.youtube.com/watch?v=1FrF8dXPPN8",
+    "desc": null,
+    "lat": 47.612929782,
+    "external_id": "201511566",
+    "longit": -122.318124878
+  },
+  {
+    "date": "2015-02-02",
+    "evidence_id": "00BD9E56-101F-4936-9D65-C6AB99B98111",
+    "url": "https://www.youtube.com/watch?v=GINPMF5Kg68",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.604128076,
+    "external_id": "201537237",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "A6BA038D-7DF9-4C54-A5F9-73BC054C79B6",
+    "url": "https://www.youtube.com/watch?v=Ug-gY1OTQ5k",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.622558496,
+    "external_id": "201562712",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "0BA6FA08-DD4A-42D1-8180-58DACCC6686B",
+    "url": "https://www.youtube.com/watch?v=EcqqfBT0AKo",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.614074152,
+    "external_id": "20152654",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "172B2635-65C9-4B27-B827-8C0FBAD9CAA8",
+    "url": "https://www.youtube.com/watch?v=zbMGEgRAZjA",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.614650577,
+    "external_id": "201521287",
+    "longit": -122.323408499
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "CBF466AF-7A81-4BAC-B12E-FB23C20B7F54",
+    "url": "https://www.youtube.com/watch?v=a4QGnP33xbY",
+    "desc": "THEFT - CAR PROWL",
+    "lat": 47.611478251,
+    "external_id": "201569337",
+    "longit": -122.303681312
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "E7D0884C-FF89-4FA7-84F5-E1CA7B190C3E",
+    "url": "https://www.youtube.com/watch?v=JXdQoPVtNJs",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.614646136,
+    "external_id": "20155768",
+    "longit": -122.322120418
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "5DF39689-06C3-4E82-8F6E-DB8F5909437D",
+    "url": "https://www.youtube.com/watch?v=roAzyBD-M-U",
+    "desc": "NOISE DISTURBANCE",
+    "lat": 47.612515582,
+    "external_id": "201534892",
+    "longit": -122.323439223
+  },
+  {
+    "date": "2015-02-14",
+    "evidence_id": "F84BBF0B-9017-487A-AA10-6C5C6C614F42",
+    "url": "https://www.youtube.com/watch?v=njchl7HhIfs",
+    "desc": "BURGLARY - UNOCCUPIED STRUCTURE ON RESIDENTIAL PROPERTY",
+    "lat": 47.619343094,
+    "external_id": "201551605",
+    "longit": -122.318224645
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "A67803AA-0B90-4958-A5C6-4EF0EFD3F3BB",
+    "url": "https://www.youtube.com/watch?v=DMCcY_NlvCY",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.615378307,
+    "external_id": "201519611",
+    "longit": -122.310658797
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "6B443147-3B9F-4B5C-A620-8E27E6B49D94",
+    "url": "https://www.youtube.com/watch?v=cDv19rlbVaI",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "0ACA08EF-1013-4FC4-AFEE-DA2EA60B401E",
+    "url": "https://www.youtube.com/watch?v=st0dMA31UO8",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.613519513,
+    "external_id": "201512537",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-05",
+    "evidence_id": "CA720921-E0FC-482C-B2D6-82D5C988A466",
+    "url": "https://www.youtube.com/watch?v=QCaNfzZaWDk",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.618737297,
+    "external_id": "201541333",
+    "longit": -122.32085773
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "C7145C15-4CDB-42FF-8AFD-3C20D5459E4E",
+    "url": "https://www.youtube.com/watch?v=seeuXSrxJfA",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619323645,
+    "external_id": "201563012",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-04",
+    "evidence_id": "7A4DAAAF-F7FA-41E3-8749-9EC04DE2E4CF",
+    "url": "https://www.youtube.com/watch?v=olL-JlhV_m0",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.608657488,
+    "external_id": "20153057",
+    "longit": -122.320755784
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "92BC6803-AC7A-430F-A6DC-01D63D48965E",
+    "url": "https://www.youtube.com/watch?v=K01CH8KJ23k",
+    "desc": "TRESPASS",
+    "lat": 47.620491806,
+    "external_id": "201522169",
+    "longit": -122.320882283
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "81D7A278-BA9C-4F8C-95E1-22A358DBA7C3",
+    "url": "https://www.youtube.com/watch?v=L9A6Oll4J8c",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.612899455,
+    "external_id": "201569830",
+    "longit": -122.308862385
+  },
+  {
+    "date": "2015-01-08",
+    "evidence_id": "53ECB2CD-EBE0-4E3F-80D0-5502F5A35FBA",
+    "url": "https://www.youtube.com/watch?v=CESw3Gy9qL0",
+    "desc": "BURGLARY - COMMERCIAL",
+    "lat": 47.599199537,
+    "external_id": "20157478",
+    "longit": -122.315680054
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "50AEEB82-B3B7-43EE-81C7-11616196BF78",
+    "url": "https://www.youtube.com/watch?v=5Ppp3CNt3Io",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.618184523,
+    "external_id": "201536043",
+    "longit": -122.316900598
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "8D328120-5873-491F-8B6A-8ACFBB0172D9",
+    "url": "https://www.youtube.com/watch?v=6RPfhE3vkuA",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.599230435,
+    "external_id": "201557531",
+    "longit": -122.297415742
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "D790F2AA-3FAF-4950-BB82-FD47FB92AB86",
+    "url": "https://www.youtube.com/watch?v=MocTfGURXs8",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.611588399,
+    "external_id": "2015725",
+    "longit": -122.302746921
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "FBF7099C-3D61-4CB0-B81B-5CBA069EF141",
+    "url": "https://www.youtube.com/watch?v=_vmDz64ctNY",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619943565,
+    "external_id": "201519884",
+    "longit": -122.315619997
+  },
+  {
+    "date": "2015-03-09",
+    "evidence_id": "4BD5AA07-3F21-42B6-BBC5-38B19D33701A",
+    "url": "https://www.youtube.com/watch?v=vOpcb5qWCk4",
+    "desc": "TRESPASS",
+    "lat": 47.615819312,
+    "external_id": "201577629",
+    "longit": -122.320807888
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "A22E04F3-3902-4C08-97AB-310D437FB560",
+    "url": "https://www.youtube.com/watch?v=e47CUG9EG0g",
+    "desc": "THEFT - CAR PROWL",
+    "lat": 47.598795004,
+    "external_id": "20159684",
+    "longit": -122.311579965
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "3A9E1243-A089-46F9-B374-BE2EB05CFB79",
+    "url": "https://www.youtube.com/watch?v=O0SbIxfX9UE",
+    "desc": "GANG GRAFFITI",
+    "lat": 47.614074152,
+    "external_id": "201536692",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "8540792A-E7B3-439F-9692-8B8C6372A0FD",
+    "url": "https://www.youtube.com/watch?v=V5y9okokoCk",
+    "desc": "LIQUOR VIOLATION - INTOXICATED PERSON",
+    "lat": 47.615838397,
+    "external_id": "201561831",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "96E4322D-A278-4444-B43F-49D37BDF44A1",
+    "url": "https://www.youtube.com/watch?v=Bl74KnLG4co",
+    "desc": "JUVENILE DISTURBANCE",
+    "lat": 47.593851626,
+    "external_id": "20151744",
+    "longit": -122.293904666
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "07E96885-621F-4EE0-894F-F0B392593339",
+    "url": "https://www.youtube.com/watch?v=3EGrq0G4Jx8",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.623162169,
+    "external_id": "201520952",
+    "longit": -122.334279225
+  },
+  {
+    "date": "2015-02-27",
+    "evidence_id": "0465E84C-E477-4C97-AF6A-D1C9B2FFEAFA",
+    "url": "https://www.youtube.com/watch?v=qbUfjGhUckM",
+    "desc": "TRESPASS",
+    "lat": 47.615819312,
+    "external_id": "201565854",
+    "longit": -122.320807888
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "AEDA2A48-1497-455F-AB35-32AC5AD26B70",
+    "url": "https://www.youtube.com/watch?v=nEWNO2i7wEg",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.616422372,
+    "external_id": "20155579",
+    "longit": -122.318179942
+  },
+  {
+    "date": "2015-01-27",
+    "evidence_id": "9F10EA9E-DE8E-4910-BED7-32464309FE28",
+    "url": "https://www.youtube.com/watch?v=EaC4-bfyL8M",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.619038674,
+    "external_id": "201529667",
+    "longit": -122.327853792
+  },
+  {
+    "date": "2015-02-11",
+    "evidence_id": "2C37826E-CA60-4B60-89B9-99BB3F1E2823",
+    "url": "https://www.youtube.com/watch?v=8Lzi6bYTy3s",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.614064988,
+    "external_id": "201548330",
+    "longit": -122.322110996
+  },
+  {
+    "date": "2015-01-15",
+    "evidence_id": "FA3DCC44-EB3D-46FF-B879-9D0D4D8CBBF9",
+    "url": "https://www.youtube.com/watch?v=woGHmtNB8vQ",
+    "desc": "BURGLARY - RESIDENTIAL, UNOCCUPIED",
+    "lat": 47.614100221,
+    "external_id": "201516674",
+    "longit": -122.323926629
+  },
+  {
+    "date": "2015-03-16",
+    "evidence_id": "E284CFFD-DF80-42AD-8A95-568017F86962",
+    "url": "https://www.youtube.com/watch?v=JF2q2XehBp8",
+    "desc": "NARCOTICS",
+    "lat": 47.615251763,
+    "external_id": "201586347",
+    "longit": -122.318162755
+  },
+  {
+    "date": "2015-01-14",
+    "evidence_id": "E674712E-A7D0-42C3-B288-89D2F28F42C8",
+    "url": "https://www.youtube.com/watch?v=5i4HTAZQ-Hw",
+    "desc": null,
+    "lat": 47.615218462,
+    "external_id": "201515631",
+    "longit": -122.325530089
+  },
+  {
+    "date": "2015-02-11",
+    "evidence_id": "06C7CBD6-C234-4E87-9547-4FB790450F60",
+    "url": "https://www.youtube.com/watch?v=zUbdYy5T3zw",
+    "desc": "PARKS EXCLUSION",
+    "lat": 47.615838397,
+    "external_id": "201547953",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-02-26",
+    "evidence_id": "D8A30F09-9BE4-4A0D-AFA8-E83AE234B37F",
+    "url": "https://www.youtube.com/watch?v=3HyDvSTMeAQ",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.619323645,
+    "external_id": "201565298",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "F374F9F2-D493-47C4-BB31-A0321A8072B6",
+    "url": "https://www.youtube.com/watch?v=zFCuqmkm06A",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.622558496,
+    "external_id": "20154574",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-26",
+    "evidence_id": "658E540A-6640-43F6-8D31-0A0E269166E7",
+    "url": "https://www.youtube.com/watch?v=ECIylQoeugg",
+    "desc": null,
+    "lat": 47.600865293,
+    "external_id": "201529218",
+    "longit": -122.298406345
+  },
+  {
+    "date": "2015-03-08",
+    "evidence_id": "3EF7CE8C-4BE0-41C8-A75A-B191F6005216",
+    "url": "https://www.youtube.com/watch?v=8Gq18chRgiA",
+    "desc": "TRESPASS",
+    "lat": 47.60864269,
+    "external_id": "201576911",
+    "longit": -122.316779948
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "11CAA18D-5FFB-4D1B-9C4D-D2E491D25224",
+    "url": "https://www.youtube.com/watch?v=2L9rPXXKva8",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.615838397,
+    "external_id": "20159305",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "C255509F-89D6-4842-8693-B0081544161F",
+    "url": "https://www.youtube.com/watch?v=SK4jx4lmNyM",
+    "desc": "WARRANT ARREST",
+    "lat": 47.614070934,
+    "external_id": "201536511",
+    "longit": -122.321445646
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "58C930D9-C94E-41FD-8037-29350C0B05D6",
+    "url": "https://www.youtube.com/watch?v=TPE8FjSgbqU",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.619323645,
+    "external_id": "201561579",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "8294261C-49C1-4964-BAB0-2C7A6FE87F27",
+    "url": "https://www.youtube.com/watch?v=UcZDW3ZdQk8",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.613893713,
+    "external_id": "20151408",
+    "longit": -122.314223009
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "05495225-655F-4E67-A446-5A3923A74087",
+    "url": "https://www.youtube.com/watch?v=foxx7codeIo",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "C13C9FD5-7830-4ED5-A5E0-AF5948D5954F",
+    "url": "https://www.youtube.com/watch?v=I-5EKQ-P0yU",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "6E5A384D-4C31-414F-A386-7B8DD7EC1898",
+    "url": "https://www.youtube.com/watch?v=ayKso29CM-o",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.604128076,
+    "external_id": "201512328",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-02-05",
+    "evidence_id": "769E2AE8-2EB3-4463-8D81-034E7B18A68D",
+    "url": "https://www.youtube.com/watch?v=l8p4ik9lX_Q",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.621075774,
+    "external_id": "201541301",
+    "longit": -122.32089215
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "91A3E797-AAF4-4562-AAA6-AFA80914B347",
+    "url": "https://www.youtube.com/watch?v=oByEu9mzxVg",
+    "desc": "TRESPASS",
+    "lat": 47.620242116,
+    "external_id": "201562883",
+    "longit": -122.325296756
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "D338FBFC-59B6-40AB-B3A8-40C9517885D0",
+    "url": "https://www.youtube.com/watch?v=FFk8-XhdtQ4",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.610949655,
+    "external_id": "20152890",
+    "longit": -122.321285022
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "1BE97790-25A2-48FF-84D6-FED52DC0B9A9",
+    "url": "https://www.youtube.com/watch?v=4ZFXMyy9Ggw",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.619922195,
+    "external_id": "201521773",
+    "longit": -122.318886615
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "8C0C3E30-4473-4B3A-9225-9E2DD867D1AF",
+    "url": "https://www.youtube.com/watch?v=nEq4cpWBwSw",
+    "desc": "PERSON WITH A GUN",
+    "lat": 47.600620584,
+    "external_id": "201569749",
+    "longit": -122.297891402
+  },
+  {
+    "date": "2015-01-07",
+    "evidence_id": "0AAA1881-27D3-4252-91B1-259C195989DE",
+    "url": "https://www.youtube.com/watch?v=KUb6xEX2EuY",
+    "desc": null,
+    "lat": 47.623030487,
+    "external_id": "20156615",
+    "longit": -122.296848999
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "7B3ECB0C-5F76-4473-93D4-058AFAEF2E65",
+    "url": "https://www.youtube.com/watch?v=hc0GaeJ2h9Y",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.622558496,
+    "external_id": "201535211",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-02-15",
+    "evidence_id": "884062CB-D94D-442B-BF1A-3EA26C911D1E",
+    "url": "https://www.youtube.com/watch?v=_Fe9G5AU2Nc",
+    "desc": "DISTURBANCE",
+    "lat": 47.614655488,
+    "external_id": "201552534",
+    "longit": -122.320789515
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "74C8F9BC-01FD-4EE7-9FE2-1883405CDE5B",
+    "url": "https://www.youtube.com/watch?v=9uRMzmIlCP0",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.603094519,
+    "external_id": "2015209",
+    "longit": -122.307660788
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "28FF492C-E895-4C4C-9CF4-CFD2AD7EC653",
+    "url": "https://www.youtube.com/watch?v=ziYqJ10UHwE",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619943565,
+    "external_id": "201519884",
+    "longit": -122.315619997
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "60D2F1D7-9BD9-4F60-B170-CA6D4540CD76",
+    "url": "https://www.youtube.com/watch?v=QWG-vtRuNV4",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.614083354,
+    "external_id": "201584412",
+    "longit": -122.319447319
+  },
+  {
+    "date": "2015-01-13",
+    "evidence_id": "B99D5559-189E-41D6-A087-2CAEDE7E6A26",
+    "url": "https://www.youtube.com/watch?v=HV9yAd_vO5Y",
+    "desc": "BURGLARY - RESIDENTIAL, UNOCCUPIED",
+    "lat": 47.618730297,
+    "external_id": "201513200",
+    "longit": -122.322862026
+  },
+  {
+    "date": "2015-02-06",
+    "evidence_id": "44970807-A2B3-4E5A-B506-B78D7604F78B",
+    "url": "https://www.youtube.com/watch?v=BF-SS2qy-HA",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.614655488,
+    "external_id": "201542336",
+    "longit": -122.320789515
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "35E7D1B4-C59F-4449-A89D-EC8BAF9B2693",
+    "url": "https://www.youtube.com/watch?v=FgNNph2X364",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.619038674,
+    "external_id": "201563093",
+    "longit": -122.327853792
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "1E90BE13-2603-4EF0-813F-5A86A5FE5E9F",
+    "url": "https://www.youtube.com/watch?v=ECKOkSG4ZwA",
+    "desc": "MENTAL COMPLAINT",
+    "lat": 47.604839562,
+    "external_id": "20153978",
+    "longit": -122.324097254
+  },
+  {
+    "date": "2015-01-23",
+    "evidence_id": "60E114D1-484A-4A6E-8769-E7C5A711CBDF",
+    "url": "https://www.youtube.com/watch?v=rar24Nld9fs",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.613528372,
+    "external_id": "201525589",
+    "longit": -122.32342026
+  },
+  {
+    "date": "2015-03-03",
+    "evidence_id": "1BDFBF70-953E-421D-9B38-75894D1EC0EA",
+    "url": "https://www.youtube.com/watch?v=3gc7XpxP3Pc",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.619905164,
+    "external_id": "201571037",
+    "longit": -122.320874901
+  },
+  {
+    "date": "2015-01-08",
+    "evidence_id": "5FAD0736-E3A5-478D-AB4C-1445236E7C26",
+    "url": "https://www.youtube.com/watch?v=0ZS9aWOiLVY",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.606016329,
+    "external_id": "20158427",
+    "longit": -122.323644427
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "35C5BBFB-0575-4360-8531-46A21F372F25",
+    "url": "https://www.youtube.com/watch?v=ANw7Pq014I0",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.614117531,
+    "external_id": "201536165",
+    "longit": -122.314877036
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "CA0ED9BD-2E8D-4E8C-97C4-8874808B0D08",
+    "url": "https://www.youtube.com/watch?v=rvcwmpZFEW0",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.595077194,
+    "external_id": "201557607",
+    "longit": -122.302220078
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "89843737-71C7-4CF2-B161-5D1E15493646",
+    "url": "https://www.youtube.com/watch?v=wa0TceADenU",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.600005439,
+    "external_id": "20151089",
+    "longit": -122.315911585
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "AE5F4FDE-3BDC-442A-A9E7-1DFAD72F9890",
+    "url": "https://www.youtube.com/watch?v=8AHbeKX0B8g",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.608058317,
+    "external_id": "201520285",
+    "longit": -122.316781652
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "30C95AE5-96BB-4159-8088-3AD8312EF552",
+    "url": "https://www.youtube.com/watch?v=sxTwDK_jIsg",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.615259165,
+    "external_id": "201582990",
+    "longit": -122.317506808
+  },
+  {
+    "date": "2015-01-11",
+    "evidence_id": "02E3EDE5-F227-4287-A4FE-E16318530210",
+    "url": "https://www.youtube.com/watch?v=N2Aa7VY843c",
+    "desc": "RECKLESS ENDANGERMENT, LITTERING, PARKS CODE VIOLATIONS",
+    "lat": 47.614064988,
+    "external_id": "201511483",
+    "longit": -122.322110996
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "1C7ED780-3685-4937-890D-0057A49ADB10",
+    "url": "https://www.youtube.com/watch?v=gkOLA_R3eIg",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614655488,
+    "external_id": "201536785",
+    "longit": -122.320789515
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "EA740DA3-25F7-4527-94D3-12C4E60CFE04",
+    "url": "https://www.youtube.com/watch?v=1SqYS00TuAY",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.615838397,
+    "external_id": "201562688",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "F950DF45-51F2-4C8E-BCDC-58AA09A84C77",
+    "url": "https://www.youtube.com/watch?v=tfblyrBypN0",
+    "desc": null,
+    "lat": 47.614070934,
+    "external_id": "20152533",
+    "longit": -122.321445646
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "313F59A8-C12F-4E19-8467-7E5A63651F31",
+    "url": "https://www.youtube.com/watch?v=Hnk-RdF_Rpo",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.623162169,
+    "external_id": "201520952",
+    "longit": -122.334279225
+  },
+  {
+    "date": "2015-03-01",
+    "evidence_id": "6321CD02-1438-49A7-9A53-9DB5C10FCE89",
+    "url": "https://www.youtube.com/watch?v=60ag_bMqjCg",
+    "desc": "PARKING VIOLATION (EXCEPT ABANDONED VEHICLES)",
+    "lat": 47.619343094,
+    "external_id": "201568306",
+    "longit": -122.318224645
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "44560D10-3605-4CE8-BE5E-7B51BFAFE465",
+    "url": "https://www.youtube.com/watch?v=SkM9ZWr79z0",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.614646136,
+    "external_id": "20155768",
+    "longit": -122.322120418
+  },
+  {
+    "date": "2015-01-27",
+    "evidence_id": "49A7EEF7-A1AA-4FEF-B65C-80010F7C9069",
+    "url": "https://www.youtube.com/watch?v=HjjwMdM9lJA",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.621075774,
+    "external_id": "201530240",
+    "longit": -122.32089215
+  },
+  {
+    "date": "2015-02-13",
+    "evidence_id": "48954DA8-F3E0-4C70-B60E-457C9A625F0B",
+    "url": "https://www.youtube.com/watch?v=BM7GKPz_R48",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.621531972,
+    "external_id": "201550453",
+    "longit": -122.320898932
+  },
+  {
+    "date": "2015-01-16",
+    "evidence_id": "308ACD60-86AB-4E7A-BB9C-82212BAEA66B",
+    "url": "https://www.youtube.com/watch?v=xDU5Ip9xjCw",
+    "desc": null,
+    "lat": 47.640878399,
+    "external_id": "201517027",
+    "longit": -122.324675885
+  },
+  {
+    "date": "2015-03-16",
+    "evidence_id": "590E6AC6-9419-499F-88FA-FF35F1C1E9C0",
+    "url": "https://www.youtube.com/watch?v=d8BqwSO457w",
+    "desc": "BURGLARY - UNOCCUPIED STRUCTURE ON RESIDENTIAL PROPERTY",
+    "lat": 47.616409047,
+    "external_id": "201585750",
+    "longit": -122.320034816
+  },
+  {
+    "date": "2015-01-13",
+    "evidence_id": "A008EBC4-3606-4301-A64E-4EDF3F937951",
+    "url": "https://www.youtube.com/watch?v=IqfAwLAT5l0",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.613519513,
+    "external_id": "201513886",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-08",
+    "evidence_id": "3552C20C-ED45-42ED-A302-106DAF531659",
+    "url": "https://www.youtube.com/watch?v=rZ7qBc1VmBo",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.593919531,
+    "external_id": "201544400",
+    "longit": -122.311595535
+  },
+  {
+    "date": "2015-02-26",
+    "evidence_id": "48194222-1F46-410E-923A-D90E3374DB47",
+    "url": "https://www.youtube.com/watch?v=yRF9lZx5ILo",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.619315789,
+    "external_id": "201564556",
+    "longit": -122.322196398
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "9121B87D-32A2-45DD-B0AB-1FD786F4E16E",
+    "url": "https://www.youtube.com/watch?v=Xu02yg-wI58",
+    "desc": "SHOPLIFT",
+    "lat": 47.622558496,
+    "external_id": "20154501",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-26",
+    "evidence_id": "83D18F29-D526-45DE-B807-B0EBD6AB61C2",
+    "url": "https://www.youtube.com/watch?v=dDK15fqxlEc",
+    "desc": "DISTURBANCE",
+    "lat": 47.614646136,
+    "external_id": "201528422",
+    "longit": -122.322120418
+  },
+  {
+    "date": "2015-03-04",
+    "evidence_id": "BB5B2ACE-0FFE-4440-AE9C-CA64023D24D4",
+    "url": "https://www.youtube.com/watch?v=zNXhGkWVx0k",
+    "desc": "TRESPASS",
+    "lat": 47.622563354,
+    "external_id": "201572198",
+    "longit": -122.322016608
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "9518EA6D-CED4-402C-B87A-2242F3AC8BB8",
+    "url": "https://www.youtube.com/watch?v=q7KURu47WoE",
+    "desc": "BURGLARY - RESIDENTIAL, OCCUPIED",
+    "lat": 47.63049105,
+    "external_id": "20159139",
+    "longit": -122.321790912
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "50559627-9C21-4595-9977-339CFC1288AA",
+    "url": "https://www.youtube.com/watch?v=KtSKrtWAkXI",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.617074328,
+    "external_id": "201536253",
+    "longit": -122.326820196
+  },
+  {
+    "date": "2015-02-20",
+    "evidence_id": "D555022E-7BD6-49A3-828D-16B218C7C691",
+    "url": "https://www.youtube.com/watch?v=hMRD0_5JIDo",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.622558496,
+    "external_id": "201558657",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-04-14",
+    "evidence_id": "B2BF5CAF-0E6E-4124-8EE2-99A1970B1EDE",
+    "url": "https://www.youtube.com/watch?v=HE6ayZC4ERE",
+    "desc": "SHOPLIFT",
+    "lat": 47.662841556,
+    "external_id": "2015121567",
+    "longit": -122.297656065
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "BCA3264A-D623-4412-BCE7-E9C28127CE62",
+    "url": "https://www.youtube.com/watch?v=RBiKlJUKm-Q",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "914008C0-36EB-43E8-97CC-AE6622072E56",
+    "url": "https://www.youtube.com/watch?v=fY8Jg17VBq0",
+    "desc": "PROPERTY DESTRUCTION",
+    "lat": 47.616409047,
+    "external_id": "201583154",
+    "longit": -122.320034816
+  },
+  {
+    "date": "2015-01-11",
+    "evidence_id": "E5662583-96E4-496D-AF8A-D7CF4FFCE921",
+    "url": "https://www.youtube.com/watch?v=R1BjyrDzOqE",
+    "desc": null,
+    "lat": 47.612929782,
+    "external_id": "201511566",
+    "longit": -122.318124878
+  },
+  {
+    "date": "2015-02-03",
+    "evidence_id": "3DC916EB-16DF-43FE-AB4C-6D23048ACBDC",
+    "url": "https://www.youtube.com/watch?v=OLkp3i0YS_4",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.613519513,
+    "external_id": "201538315",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "63397675-EBFE-4A68-A536-A402167256D4",
+    "url": "https://www.youtube.com/watch?v=rAATD70gGZE",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.622558496,
+    "external_id": "201562712",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "2B993D5A-BC58-4790-B517-D5D004AB1877",
+    "url": "https://www.youtube.com/watch?v=ba8tN-K6G_s",
+    "desc": "MENTAL COMPLAINT",
+    "lat": 47.603091545,
+    "external_id": "20152663",
+    "longit": -122.305041618
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "8CA3FD0A-F72D-489C-8F90-1F32B3C5C05B",
+    "url": "https://www.youtube.com/watch?v=P-UaHF_zXWk",
+    "desc": null,
+    "lat": 47.626759017,
+    "external_id": "201521367",
+    "longit": -122.30238453
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "894A3799-672D-4307-A1BE-B2799BB8609F",
+    "url": "https://www.youtube.com/watch?v=83DGOcyNCag",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.61467441,
+    "external_id": "201569457",
+    "longit": -122.318150196
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "CC474642-7984-4A4F-B870-2DA87B02957F",
+    "url": "https://www.youtube.com/watch?v=WM0pxQL1jVA",
+    "desc": "TRESPASS",
+    "lat": 47.626144565,
+    "external_id": "20155837",
+    "longit": -122.320223033
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "637D5058-0869-40D3-9027-906D59A52098",
+    "url": "https://www.youtube.com/watch?v=MOYqiq6Qh0U",
+    "desc": "PARKING VIOLATION (EXCEPT ABANDONED VEHICLES)",
+    "lat": 47.615857114,
+    "external_id": "201535020",
+    "longit": -122.315557918
+  },
+  {
+    "date": "2015-02-14",
+    "evidence_id": "C2E69942-2ABD-4F34-9DB9-749A125508B8",
+    "url": "https://www.youtube.com/watch?v=OMEKZh2jLNg",
+    "desc": "BURGLARY - RESIDENTIAL, OCCUPIED",
+    "lat": 47.615283036,
+    "external_id": "201551806",
+    "longit": -122.295516053
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "271D0B4B-B6B9-4038-BDF5-B9B446E1EAF9",
+    "url": "https://www.youtube.com/watch?v=uyZbk1jYriI",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614092169,
+    "external_id": "201530",
+    "longit": -122.318141828
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "3D899E77-B717-412F-A7D3-41E0B99C6E1D",
+    "url": "https://www.youtube.com/watch?v=kjInFyLull4",
+    "desc": null,
+    "lat": 47.615218462,
+    "external_id": "201519707",
+    "longit": -122.325530089
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "8E029DFA-6673-4B15-9E28-9F3634F51A89",
+    "url": "https://www.youtube.com/watch?v=prNGfTlEtnM",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "ADB2658F-B565-4CF7-A0F3-8CE2396FDA6B",
+    "url": "https://www.youtube.com/watch?v=HHUgPp_sVgo",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.613519513,
+    "external_id": "201512537",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-05",
+    "evidence_id": "B0884919-0854-48DF-B7EA-DB8CDF3F28F9",
+    "url": "https://www.youtube.com/watch?v=zSOBL7aiLwk",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.618737297,
+    "external_id": "201541333",
+    "longit": -122.32085773
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "BE404663-FD53-4C6A-857E-28082EDFB173",
+    "url": "https://www.youtube.com/watch?v=9wKvG2lFCb8",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619323645,
+    "external_id": "201563012",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-04",
+    "evidence_id": "09E47071-4477-45CF-8335-7AE8F3BFA1D0",
+    "url": "https://www.youtube.com/watch?v=fWV1UVLw1GA",
+    "desc": "FIGHT DISTURBANCE",
+    "lat": 47.613519513,
+    "external_id": "20153096",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-01-21",
+    "evidence_id": "D3BB05E3-BA98-482F-8E61-B957A96FDEA9",
+    "url": "https://www.youtube.com/watch?v=yJ4AxKLA8Hc",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.614103711,
+    "external_id": "201522619",
+    "longit": -122.316836415
+  },
+  {
+    "date": "2015-03-03",
+    "evidence_id": "88D17D2C-29F5-4200-BBF5-DC134CCDFA73",
+    "url": "https://www.youtube.com/watch?v=jRljlWkadDc",
+    "desc": null,
+    "lat": 47.608056049,
+    "external_id": "201570497",
+    "longit": -122.316118743
+  },
+  {
+    "date": "2015-01-08",
+    "evidence_id": "731626B8-9EFC-4CE6-9DDC-85DBF00774BF",
+    "url": "https://www.youtube.com/watch?v=94Q0hZIX-LU",
+    "desc": "BURGLARY - COMMERCIAL",
+    "lat": 47.599199537,
+    "external_id": "20157478",
+    "longit": -122.315680054
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "A87D12D7-FE1C-4427-8ADF-B5A4F7773B32",
+    "url": "https://www.youtube.com/watch?v=AgkbG18L4l4",
+    "desc": "THEFT - CAR PROWL",
+    "lat": 47.61293736,
+    "external_id": "201536040",
+    "longit": -122.319434863
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "EBEF5B1C-5A09-41FD-A2A7-F3AB186343C0",
+    "url": "https://www.youtube.com/watch?v=nWYEe0PsfSA",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.599230435,
+    "external_id": "201557531",
+    "longit": -122.297415742
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "1B7F47F1-9D19-4D0A-9C2C-6399415B47D7",
+    "url": "https://www.youtube.com/watch?v=ZBxbVCoRbyk",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.611588399,
+    "external_id": "2015725",
+    "longit": -122.302746921
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "EC8AE675-FB25-4B91-A7B4-C3DD0673819F",
+    "url": "https://www.youtube.com/watch?v=RltDAKFjX2I",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619943565,
+    "external_id": "201519884",
+    "longit": -122.315619997
+  },
+  {
+    "date": "2015-03-09",
+    "evidence_id": "53090AFB-2A36-4051-853A-F7839739ED0E",
+    "url": "https://www.youtube.com/watch?v=p_1dRDtejRk",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.615838397,
+    "external_id": "201577798",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-10",
+    "evidence_id": "B4BEE006-1CB8-47AA-A90C-5F44D9C73882",
+    "url": "https://www.youtube.com/watch?v=t4-BDdmHtZ4",
+    "desc": "MENTAL COMPLAINT",
+    "lat": 47.608017977,
+    "external_id": "201510111",
+    "longit": -122.322398653
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "1B8264F6-02A8-430E-8406-88EB9434DD08",
+    "url": "https://www.youtube.com/watch?v=Si4jFK0zcc0",
+    "desc": "GANG GRAFFITI",
+    "lat": 47.614074152,
+    "external_id": "201536692",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "CF032838-F7AA-4217-B6DD-72A652569DA1",
+    "url": "https://www.youtube.com/watch?v=-lusOGF2KTc",
+    "desc": "LIQUOR VIOLATION - INTOXICATED PERSON",
+    "lat": 47.615838397,
+    "external_id": "201561831",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "6C6B0C88-F016-4A29-AD96-A4A6CC6F0281",
+    "url": "https://www.youtube.com/watch?v=7q4g9dWAAo8",
+    "desc": "ALARMS - COMMERCIAL PANIC (FALSE)",
+    "lat": 47.614089799,
+    "external_id": "20152254",
+    "longit": -122.318793871
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "FEAEC59B-5823-41DC-8390-DD946895C215",
+    "url": "https://www.youtube.com/watch?v=g1XeOkRMQ10",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-02-27",
+    "evidence_id": "89D3E043-1A38-4A64-83AF-32831AF20B26",
+    "url": "https://www.youtube.com/watch?v=SMf42qFLWjE",
+    "desc": null,
+    "lat": 47.623698976,
+    "external_id": "201565876",
+    "longit": -122.320933331
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "A870FC12-8499-4059-BA19-0592EA6C828A",
+    "url": "https://www.youtube.com/watch?v=LJRwUMCMsoA",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.616422372,
+    "external_id": "20155579",
+    "longit": -122.318179942
+  },
+  {
+    "date": "2015-01-27",
+    "evidence_id": "BAC35D0C-6148-4C60-AF77-B5E51FDFD876",
+    "url": "https://www.youtube.com/watch?v=a9hL_bkQMVc",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.619038674,
+    "external_id": "201529667",
+    "longit": -122.327853792
+  },
+  {
+    "date": "2015-02-11",
+    "evidence_id": "1ADEDDCF-9589-499D-AEB0-C6BDAE4EE1F1",
+    "url": "https://www.youtube.com/watch?v=Vh3CPlcnXns",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.614064988,
+    "external_id": "201548330",
+    "longit": -122.322110996
+  },
+  {
+    "date": "2015-01-16",
+    "evidence_id": "DE590771-9EC4-42A5-9FDD-2F4EAD3CC99F",
+    "url": "https://www.youtube.com/watch?v=VTpL7hDMICE",
+    "desc": "ACCIDENT INVESTIGATION",
+    "lat": 47.604128076,
+    "external_id": "201517001",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-03-16",
+    "evidence_id": "16EE5444-3680-461B-BA53-67E59D22E848",
+    "url": "https://www.youtube.com/watch?v=mDQtAPvlPUc",
+    "desc": "AUTO THEFT",
+    "lat": 47.610068607,
+    "external_id": "201585906",
+    "longit": -122.328110433
+  },
+  {
+    "date": "2015-01-14",
+    "evidence_id": "1F55014D-9804-4878-AE92-DA26A3B3E39F",
+    "url": "https://www.youtube.com/watch?v=KJMMH_l18Xw",
+    "desc": "FRAUD",
+    "lat": 47.619323645,
+    "external_id": "201514929",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-02-08",
+    "evidence_id": "875E6FAC-A3EE-4937-AD9C-C4F875153A45",
+    "url": "https://www.youtube.com/watch?v=CGQ-AOL4TMc",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.5955682,
+    "external_id": "201544517",
+    "longit": -122.30222574
+  },
+  {
+    "date": "2015-02-26",
+    "evidence_id": "C12A10E5-DDE7-45E5-91F9-EF1CE3938725",
+    "url": "https://www.youtube.com/watch?v=2i8xUMJwmhc",
+    "desc": "AUTO THEFT AND RECOVERY",
+    "lat": 47.608324563,
+    "external_id": "201564658",
+    "longit": -122.339559372
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "E3B50633-DCBD-4805-9527-EC27D4DA2FE2",
+    "url": "https://www.youtube.com/watch?v=bmgi3NLkQ0M",
+    "desc": "PARKING VIOLATION (EXCEPT ABANDONED VEHICLES)",
+    "lat": 47.606169553,
+    "external_id": "20154554",
+    "longit": -122.308943212
+  },
+  {
+    "date": "2015-01-26",
+    "evidence_id": "C70FC902-D71C-424A-A0D6-0CBA39C81D04",
+    "url": "https://www.youtube.com/watch?v=mmriTjewzLo",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.601702337,
+    "external_id": "201528542",
+    "longit": -122.322450598
+  },
+  {
+    "date": "2015-03-08",
+    "evidence_id": "8BA607C7-3A6A-4E19-B1FD-4A7A4ADD81AF",
+    "url": "https://www.youtube.com/watch?v=kSbOityntzo",
+    "desc": "WARRANT ARREST",
+    "lat": 47.622558496,
+    "external_id": "201576786",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "B13E018A-10CF-4BB0-A726-1F80CFBF864E",
+    "url": "https://www.youtube.com/watch?v=Z0rcfQH0zbU",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.615838397,
+    "external_id": "20159305",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "75452FF5-734A-4798-9147-C03695F247FF",
+    "url": "https://www.youtube.com/watch?v=C7QIjyPuDdg",
+    "desc": "WARRANT ARREST",
+    "lat": 47.614070934,
+    "external_id": "201536511",
+    "longit": -122.321445646
+  },
+  {
+    "date": "2015-02-21",
+    "evidence_id": "0C0160DB-869E-4F38-A7D8-1C65D534926D",
+    "url": "https://www.youtube.com/watch?v=9zNJfF94MQE",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614655488,
+    "external_id": "201559182",
+    "longit": -122.320789515
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "21A483F5-76FE-4297-B0F8-F2577D23FE76",
+    "url": "https://www.youtube.com/watch?v=0-Fo1HmBM3U",
+    "desc": "AUTO THEFT",
+    "lat": 47.591606254,
+    "external_id": "20151345",
+    "longit": -122.31236483
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "AB361864-BB05-49DF-9468-66FE62A5AF80",
+    "url": "https://www.youtube.com/watch?v=xqsHU9Cv69k",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "479AB727-0C39-4986-B3A5-5AC2BCF9687F",
+    "url": "https://www.youtube.com/watch?v=uZKkhBloO9M",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.623131376,
+    "external_id": "201583219",
+    "longit": -122.322009496
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "F54097FD-B345-495A-8E68-A9F0A89CF8DE",
+    "url": "https://www.youtube.com/watch?v=rew9e3gwKr4",
+    "desc": "TRESPASS",
+    "lat": 47.613519513,
+    "external_id": "201512152",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-02-03",
+    "evidence_id": "7EACA9DA-E03A-4027-9CB9-E48895F56413",
+    "url": "https://www.youtube.com/watch?v=O3WZ0xyEGZc",
+    "desc": null,
+    "lat": 47.623109451,
+    "external_id": "201538750",
+    "longit": -122.315706149
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "81573471-E361-49BE-BB85-4FCD61CD339C",
+    "url": "https://www.youtube.com/watch?v=6Td3n17Y5UE",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.615233745,
+    "external_id": "201562698",
+    "longit": -122.320802171
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "DE008A4D-23FD-470A-AC51-5C3F66425267",
+    "url": "https://www.youtube.com/watch?v=tzR83whEE-M",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.612961104,
+    "external_id": "20152880",
+    "longit": -122.320765586
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "D8DBCF67-C44D-4B54-81DF-D0B12757D3CD",
+    "url": "https://www.youtube.com/watch?v=doXfgABjGSM",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.619922195,
+    "external_id": "201521773",
+    "longit": -122.318886615
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "326E6DD5-8BB7-4A4A-9BC1-05CA9814BE45",
+    "url": "https://www.youtube.com/watch?v=BY-fMT-mtIU",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.61467441,
+    "external_id": "201569457",
+    "longit": -122.318150196
+  },
+  {
+    "date": "2015-01-07",
+    "evidence_id": "E6E066E1-9A0A-4541-9101-ECA25B5EE244",
+    "url": "https://www.youtube.com/watch?v=rmuEv0OHTqI",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.636700412,
+    "external_id": "20156440",
+    "longit": -122.312095312
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "96C99FBB-2EC4-4EAC-BE68-CF41B526C3CF",
+    "url": "https://www.youtube.com/watch?v=VTFzcmUHmYg",
+    "desc": "ALARMS - COMMERCIAL BURGLARY (FALSE)",
+    "lat": 47.614099103,
+    "external_id": "201535051",
+    "longit": -122.317488403
+  },
+  {
+    "date": "2015-02-14",
+    "evidence_id": "0F2D93F0-8AF2-4D51-96FE-E546428CBEBE",
+    "url": "https://www.youtube.com/watch?v=afaJHQ6UHVg",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.615810124,
+    "external_id": "201551963",
+    "longit": -122.322139361
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "57E2EB79-C6DB-47FC-90D2-4910ADEB91F9",
+    "url": "https://www.youtube.com/watch?v=srCDnEiKLxA",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.614092169,
+    "external_id": "201530",
+    "longit": -122.318141828
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "CDB27AA2-D184-43E8-9F8D-3B77DE804944",
+    "url": "https://www.youtube.com/watch?v=wLdyFfBpwGc",
+    "desc": null,
+    "lat": 47.615218462,
+    "external_id": "201519707",
+    "longit": -122.325530089
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "F2428112-992F-4BBB-9F7F-30C822CBE517",
+    "url": "https://www.youtube.com/watch?v=2Rkq4acZmqo",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "5E9A6B00-372B-4B87-A8B1-EF6B29FC6DA1",
+    "url": "https://www.youtube.com/watch?v=XxdnYmc1wxs",
+    "desc": null,
+    "lat": 47.599286656,
+    "external_id": "201512793",
+    "longit": -122.30113883
+  },
+  {
+    "date": "2015-02-06",
+    "evidence_id": "C798D81D-D9B3-4795-AB74-E2E4E2F35842",
+    "url": "https://www.youtube.com/watch?v=fhU-GqsB66Q",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.614655488,
+    "external_id": "201542336",
+    "longit": -122.320789515
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "5F08883F-EFE9-47D9-A090-AEDD618BA7BF",
+    "url": "https://www.youtube.com/watch?v=uuTQgAaJawY",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.619038674,
+    "external_id": "201563093",
+    "longit": -122.327853792
+  },
+  {
+    "date": "2015-01-04",
+    "evidence_id": "B6299EBB-8581-4D22-8D6E-394F0FEAC6BF",
+    "url": "https://www.youtube.com/watch?v=MbHDiHuVMI8",
+    "desc": "ARMED ROBBERY",
+    "lat": 47.596654661,
+    "external_id": "20153528",
+    "longit": -122.313436505
+  },
+  {
+    "date": "2015-01-21",
+    "evidence_id": "A1D8EF16-750D-4D2D-AFFC-428B50AAD00A",
+    "url": "https://www.youtube.com/watch?v=Kwq-nQJC_WY",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.615215416,
+    "external_id": "201522920",
+    "longit": -122.326807388
+  },
+  {
+    "date": "2015-03-03",
+    "evidence_id": "A4D91275-AC26-43A3-A2F0-FBD665DA7D59",
+    "url": "https://www.youtube.com/watch?v=8vWKZi99GFk",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.615838397,
+    "external_id": "201570923",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-08",
+    "evidence_id": "207C5104-A36E-4082-B5B1-8F5AC8E08207",
+    "url": "https://www.youtube.com/watch?v=rPiH5Q7RFQY",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.604878756,
+    "external_id": "20157963",
+    "longit": -122.320746822
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "3112DB1E-9CDD-45AD-AA5F-B2CC28048898",
+    "url": "https://www.youtube.com/watch?v=w7vVWhSR96U",
+    "desc": "NOISE DISTURBANCE",
+    "lat": 47.612987967,
+    "external_id": "201536076",
+    "longit": -122.324951125
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "442F02BC-3768-4AA1-B83F-B9DB8855123A",
+    "url": "https://www.youtube.com/watch?v=oY1UyMgAcMU",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.595077194,
+    "external_id": "201557607",
+    "longit": -122.302220078
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "DCA11E5D-CDD3-4021-A9CF-D4AD02ABBC99",
+    "url": "https://www.youtube.com/watch?v=NIX0nFFuObM",
+    "desc": "THEFT - MISCELLANEOUS",
+    "lat": 47.636769325,
+    "external_id": "2015756",
+    "longit": -122.324377033
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "439A1702-80ED-4CE5-AEB6-4A4F16049489",
+    "url": "https://www.youtube.com/watch?v=h7-VF37JxWQ",
+    "desc": "THEFT - CAR PROWL",
+    "lat": 47.620224477,
+    "external_id": "201519974",
+    "longit": -122.326575534
+  },
+  {
+    "date": "2015-03-09",
+    "evidence_id": "A5B8F0CC-CD8B-4985-8B5C-F078E46A62D6",
+    "url": "https://www.youtube.com/watch?v=1ymsx0xgBME",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.615838397,
+    "external_id": "201577798",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-11",
+    "evidence_id": "21BD2830-860E-4F17-8716-6B6683EA022A",
+    "url": "https://www.youtube.com/watch?v=yiV3MsuWMXw",
+    "desc": "RECKLESS ENDANGERMENT, LITTERING, PARKS CODE VIOLATIONS",
+    "lat": 47.614064988,
+    "external_id": "201511483",
+    "longit": -122.322110996
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "88229C1F-22A6-4129-A40C-6919EBC9A373",
+    "url": "https://www.youtube.com/watch?v=suJ0QUFv7DM",
+    "desc": "GANG GRAFFITI",
+    "lat": 47.614074152,
+    "external_id": "201536692",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "9AA7B8AE-7381-490F-BE35-7E11D0A0BEEF",
+    "url": "https://www.youtube.com/watch?v=19n78fY6DuE",
+    "desc": "TRESPASS",
+    "lat": 47.619323645,
+    "external_id": "201561912",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "A49449C3-F459-415C-B753-144CEFAAD8B2",
+    "url": "https://www.youtube.com/watch?v=r0N5mHr8DUw",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.611228666,
+    "external_id": "20152461",
+    "longit": -122.325334573
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "EF9BD16D-5C93-4A30-B0F5-73D13AE5AD70",
+    "url": "https://www.youtube.com/watch?v=13Dvek2AgU8",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-02-28",
+    "evidence_id": "B9CC6885-366D-46D2-9700-9FF7516F3377",
+    "url": "https://www.youtube.com/watch?v=d8gxok-CgBY",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.613437355,
+    "external_id": "201567034",
+    "longit": -122.327359481
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "14C9E532-A467-4B87-A684-C4EEF451DC5A",
+    "url": "https://www.youtube.com/watch?v=QT-iStYjO1o",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.616422372,
+    "external_id": "20155579",
+    "longit": -122.318179942
+  },
+  {
+    "date": "2015-01-27",
+    "evidence_id": "9CF0E9A6-7A71-47BE-866A-3B82999E09E6",
+    "url": "https://www.youtube.com/watch?v=lJL4mgm3lrQ",
+    "desc": "TRESPASS",
+    "lat": 47.608657488,
+    "external_id": "201529920",
+    "longit": -122.320755784
+  },
+  {
+    "date": "2015-02-12",
+    "evidence_id": "CF0F11C0-8F3F-4260-AA5F-BCFC69ABF7CE",
+    "url": "https://www.youtube.com/watch?v=UNiqbBgRNJY",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.620491806,
+    "external_id": "201549207",
+    "longit": -122.320882283
+  },
+  {
+    "date": "2015-01-16",
+    "evidence_id": "8452DF9D-3716-41B6-B5B4-FD13F97BE2BD",
+    "url": "https://www.youtube.com/watch?v=c6Y9Skjw1Ls",
+    "desc": null,
+    "lat": 47.640878399,
+    "external_id": "201517027",
+    "longit": -122.324675885
+  },
+  {
+    "date": "2015-03-15",
+    "evidence_id": "462490C7-5E4E-463D-A889-5D3300997CDB",
+    "url": "https://www.youtube.com/watch?v=cN74AX94QVc",
+    "desc": "THEFT - MISCELLANEOUS",
+    "lat": 47.622558496,
+    "external_id": "201585249",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-13",
+    "evidence_id": "5059ADAF-4224-4960-80D1-1925780EA31E",
+    "url": "https://www.youtube.com/watch?v=5wib-GlfO9I",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.622558496,
+    "external_id": "201513703",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-02-07",
+    "evidence_id": "DEC4271A-6557-456F-AE98-F4D679963247",
+    "url": "https://www.youtube.com/watch?v=N4Xl2hH5oYQ",
+    "desc": "CAR PROWL",
+    "lat": 47.609014956,
+    "external_id": "201543349",
+    "longit": -122.329450042
+  },
+  {
+    "date": "2015-02-25",
+    "evidence_id": "158F84EE-E490-4AC5-BC7D-1620EB0B3CC9",
+    "url": "https://www.youtube.com/watch?v=2q-pgma55g8",
+    "desc": "BURGLARY - UNOCCUPIED STRUCTURE ON RESIDENTIAL PROPERTY",
+    "lat": 47.618730297,
+    "external_id": "201563567",
+    "longit": -122.322862026
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "05D66BB5-75DF-45F4-9302-421D54A06E5A",
+    "url": "https://www.youtube.com/watch?v=HaNg2zZPhXQ",
+    "desc": "TRESPASS",
+    "lat": 47.620491806,
+    "external_id": "20154169",
+    "longit": -122.320882283
+  },
+  {
+    "date": "2015-01-17",
+    "evidence_id": "DC383B72-A0EB-493E-8848-972309006FEC",
+    "url": "https://www.youtube.com/watch?v=br_Rl00RcKc",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.615242947,
+    "external_id": "201518880",
+    "longit": -122.319468275
+  },
+  {
+    "date": "2015-03-04",
+    "evidence_id": "BD1EF1C0-BA73-4C27-BFF8-AE68E64E04D6",
+    "url": "https://www.youtube.com/watch?v=qjDGonFPEFg",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.621985884,
+    "external_id": "201572155",
+    "longit": -122.320910062
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "803872F1-2C85-4225-B497-C854F343A2C5",
+    "url": "https://www.youtube.com/watch?v=8ZCfkf0phxA",
+    "desc": "SUSPICIOUS PERSON",
+    "lat": 47.612247733,
+    "external_id": "20158719",
+    "longit": -122.298813728
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "0604C358-4DC1-4F2C-89DE-85359C882B0D",
+    "url": "https://www.youtube.com/watch?v=cuD_2Kkdt0o",
+    "desc": "TRESPASS",
+    "lat": 47.604609022,
+    "external_id": "201536178",
+    "longit": -122.324652123
+  },
+  {
+    "date": "2015-02-20",
+    "evidence_id": "22A5023B-3CE2-4AF0-BA0E-4CDA8A580A1F",
+    "url": "https://www.youtube.com/watch?v=grnjHRMdEno",
+    "desc": "STRONG ARM ROBBERY",
+    "lat": 47.61466515,
+    "external_id": "201558000",
+    "longit": -122.319456132
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "1B0146D3-3733-45FF-9811-0780BF519D98",
+    "url": "https://www.youtube.com/watch?v=7az4PXKfJQc",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.613534527,
+    "external_id": "20151130",
+    "longit": -122.325509963
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "5BE710E4-67AA-4347-8712-33786D56D5E0",
+    "url": "https://www.youtube.com/watch?v=-3qPcbkvG2E",
+    "desc": "TRESPASS",
+    "lat": 47.622558496,
+    "external_id": "201520685",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-03-13",
+    "evidence_id": "9424B430-BA90-4DCB-BCAF-8C2CEBBC04A9",
+    "url": "https://www.youtube.com/watch?v=z9fB3LI1b1E",
+    "desc": "PROPERTY DESTRUCTION",
+    "lat": 47.616409047,
+    "external_id": "201583154",
+    "longit": -122.320034816
+  },
+  {
+    "date": "2015-01-11",
+    "evidence_id": "9DB04EA8-09F2-4166-9668-8F171047BDAC",
+    "url": "https://www.youtube.com/watch?v=gV78HMJqu4I",
+    "desc": null,
+    "lat": 47.612929782,
+    "external_id": "201511566",
+    "longit": -122.318124878
+  },
+  {
+    "date": "2015-02-02",
+    "evidence_id": "7144E09D-D4C9-4F8E-9183-D0DF4DECD6CD",
+    "url": "https://www.youtube.com/watch?v=JLwUt4jCqhU",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.604128076,
+    "external_id": "201537237",
+    "longit": -122.323443935
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "EA98154A-BB1E-46FF-AF59-390006E84BAE",
+    "url": "https://www.youtube.com/watch?v=I-nEaE1fYV0",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.616422372,
+    "external_id": "201562700",
+    "longit": -122.318179942
+  },
+  {
+    "date": "2015-01-03",
+    "evidence_id": "DFC0087C-C147-4C82-9684-5F4D7ACAB06B",
+    "url": "https://www.youtube.com/watch?v=vrIq1lgrzew",
+    "desc": "HARASSMENT, THREATS",
+    "lat": 47.614074152,
+    "external_id": "20152654",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "ED67367F-808B-404F-8F38-1D09EB1E8066",
+    "url": "https://www.youtube.com/watch?v=A8N-QQuL09Q",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.601694242,
+    "external_id": "201521215",
+    "longit": -122.317824597
+  },
+  {
+    "date": "2015-03-01",
+    "evidence_id": "7837D823-5DC6-421E-8B3B-F7D32896A116",
+    "url": "https://www.youtube.com/watch?v=Gpymnr3c-Fg",
+    "desc": "PARKING VIOLATION (EXCEPT ABANDONED VEHICLES)",
+    "lat": 47.619343094,
+    "external_id": "201568306",
+    "longit": -122.318224645
+  },
+  {
+    "date": "2015-01-06",
+    "evidence_id": "FA8330E7-CDCA-42F8-8B1A-8A082773AC20",
+    "url": "https://www.youtube.com/watch?v=JM9LADgScFk",
+    "desc": "WARRANT ARREST",
+    "lat": 47.602196831,
+    "external_id": "20155783",
+    "longit": -122.320738627
+  },
+  {
+    "date": "2015-01-30",
+    "evidence_id": "AF4FBDDD-1F89-4142-8702-EE96E6214EFB",
+    "url": "https://www.youtube.com/watch?v=cImlLYsMMUo",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.615838397,
+    "external_id": "201534419",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-02-13",
+    "evidence_id": "ECABE0AA-33EB-4688-A040-78F657F7DEFA",
+    "url": "https://www.youtube.com/watch?v=KOuqoERsaJo",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.621531972,
+    "external_id": "201550453",
+    "longit": -122.320898932
+  },
+  {
+    "date": "2015-01-16",
+    "evidence_id": "464288FB-E37E-4623-BFB6-71EB7EF9B1A0",
+    "url": "https://www.youtube.com/watch?v=jJssqn3dGZk",
+    "desc": "SUSPICIOUS VEHICLE",
+    "lat": 47.614004788,
+    "external_id": "201517803",
+    "longit": -122.313956723
+  },
+  {
+    "date": "2015-03-14",
+    "evidence_id": "1E82E8A8-8623-45B0-B7EE-6FF444D10992",
+    "url": "https://www.youtube.com/watch?v=0JFQk1-aE98",
+    "desc": "FELONY WARRANT SERVICE",
+    "lat": 47.615838397,
+    "external_id": "201584228",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-12",
+    "evidence_id": "A3BFED73-F4DA-404E-817E-BF688360B415",
+    "url": "https://www.youtube.com/watch?v=pA92JO6U7RQ",
+    "desc": "MISDEMEANOR WARRANT SERVICE",
+    "lat": 47.609336459,
+    "external_id": "201512596",
+    "longit": -122.325142456
+  },
+  {
+    "date": "2015-02-05",
+    "evidence_id": "9312EC3E-1343-4971-B071-03244DF01457",
+    "url": "https://www.youtube.com/watch?v=_OuZF68sVIo",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.621075774,
+    "external_id": "201541301",
+    "longit": -122.32089215
+  },
+  {
+    "date": "2015-02-24",
+    "evidence_id": "5FFD5CBD-7F4C-4E4F-AC78-45D88D29DDC1",
+    "url": "https://www.youtube.com/watch?v=OS6yrzCWrM8",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619323645,
+    "external_id": "201563012",
+    "longit": -122.320863689
+  },
+  {
+    "date": "2015-01-04",
+    "evidence_id": "5CEF2077-DDFA-4399-A63A-36C295829D2D",
+    "url": "https://www.youtube.com/watch?v=WspcQniZsoU",
+    "desc": "DISTURBANCE, OTHER",
+    "lat": 47.612111358,
+    "external_id": "20152999",
+    "longit": -122.320761221
+  },
+  {
+    "date": "2015-01-20",
+    "evidence_id": "507C6FFA-8AFC-40A7-BCEB-62321AF0D561",
+    "url": "https://www.youtube.com/watch?v=07xwjAWFAvI",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.619922195,
+    "external_id": "201521773",
+    "longit": -122.318886615
+  },
+  {
+    "date": "2015-03-02",
+    "evidence_id": "150D1A33-167A-4437-B6AA-0D9F0B5833E8",
+    "url": "https://www.youtube.com/watch?v=8ZNvJaSUTYE",
+    "desc": "TRAFFIC (MOVING) VIOLATION",
+    "lat": 47.612899455,
+    "external_id": "201569830",
+    "longit": -122.308862385
+  },
+  {
+    "date": "2015-01-07",
+    "evidence_id": "F8A101E9-51AF-456C-9D9E-9788EB878AF9",
+    "url": "https://www.youtube.com/watch?v=AIcAAWKU_RY",
+    "desc": "ARMED ROBBERY",
+    "lat": 47.605702467,
+    "external_id": "20157294",
+    "longit": -122.31810909
+  },
+  {
+    "date": "2015-01-31",
+    "evidence_id": "55B15D6E-4CFC-44FD-8E7B-BE26543340B4",
+    "url": "https://www.youtube.com/watch?v=eTGoYsdpHuQ",
+    "desc": "THEFT - MISCELLANEOUS",
+    "lat": 47.614646136,
+    "external_id": "201535522",
+    "longit": -122.322120418
+  },
+  {
+    "date": "2015-02-19",
+    "evidence_id": "49F12969-CC5C-4004-947D-E8EA47324023",
+    "url": "https://www.youtube.com/watch?v=g4YHNIsNQX4",
+    "desc": "DRIVING WHILE UNDER INFLUENCE (DUI)",
+    "lat": 47.599230435,
+    "external_id": "201557531",
+    "longit": -122.297415742
+  },
+  {
+    "date": "2015-01-01",
+    "evidence_id": "70FDBF9F-2DD5-4E0C-91A5-3742FBF1D246",
+    "url": "https://www.youtube.com/watch?v=fiPNIMbSQgY",
+    "desc": "PROPERTY DAMAGE",
+    "lat": 47.614080415,
+    "external_id": "2015522",
+    "longit": -122.320113577
+  },
+  {
+    "date": "2015-01-18",
+    "evidence_id": "B1BD9C52-94F6-48D9-9970-91028977ED30",
+    "url": "https://www.youtube.com/watch?v=vqfuRztwzZ8",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.619943565,
+    "external_id": "201519884",
+    "longit": -122.315619997
+  },
+  {
+    "date": "2015-03-08",
+    "evidence_id": "DE34784D-C054-4D93-BCC5-DDA093C0F2DB",
+    "url": "https://www.youtube.com/watch?v=ZY7fwcw6WMw",
+    "desc": "TRESPASS",
+    "lat": 47.60864269,
+    "external_id": "201576911",
+    "longit": -122.316779948
+  },
+  {
+    "date": "2015-01-09",
+    "evidence_id": "579D816E-806C-40F0-98BE-2913BFC989DD",
+    "url": "https://www.youtube.com/watch?v=lJXp37Y4VV4",
+    "desc": "ASSAULTS, OTHER",
+    "lat": 47.605072898,
+    "external_id": "20159373",
+    "longit": -122.323543046
+  },
+  {
+    "date": "2015-02-01",
+    "evidence_id": "9EF58252-1CF5-43EB-BA80-F5CB226C32E1",
+    "url": "https://www.youtube.com/watch?v=DI8MrMVTwtI",
+    "desc": "GANG GRAFFITI",
+    "lat": 47.614074152,
+    "external_id": "201536692",
+    "longit": -122.320781185
+  },
+  {
+    "date": "2015-02-23",
+    "evidence_id": "5E537081-B373-4BC6-B807-FF224EA8E43A",
+    "url": "https://www.youtube.com/watch?v=wt6qIHswenM",
+    "desc": "LIQUOR VIOLATION - INTOXICATED PERSON",
+    "lat": 47.615838397,
+    "external_id": "201561831",
+    "longit": -122.318168851
+  },
+  {
+    "date": "2015-01-02",
+    "evidence_id": "0763F251-485D-484B-AA38-71CEDA05B3C5",
+    "url": "https://www.youtube.com/watch?v=QkRouPZJiww",
+    "desc": "TRAFFIC",
+    "lat": 47.673833408,
+    "external_id": "20151736",
+    "longit": -122.390140013
+  },
+  {
+    "date": "2015-01-19",
+    "evidence_id": "4735E879-F5B4-4650-9468-16A76E2F65FF",
+    "url": "https://www.youtube.com/watch?v=EdwEtC-NRh0",
+    "desc": "ASSAULT",
+    "lat": 47.623208546,
+    "external_id": "201520616",
+    "longit": -122.338449957
+  },
+  {
+    "date": "2015-02-27",
+    "evidence_id": "D0175E96-87F1-4669-88A4-46C412A8F1B9",
+    "url": "https://www.youtube.com/watch?v=81jyCGNsz3A",
+    "desc": "TRESPASS",
+    "lat": 47.613519513,
+    "external_id": "201565785",
+    "longit": -122.320771379
+  },
+  {
+    "date": "2015-01-05",
+    "evidence_id": "DB6FC2B8-0843-4314-A771-42FF9BD5E148",
+    "url": "https://www.youtube.com/watch?v=1i-SS0I57ds",
+    "desc": "NARCOTICS, OTHER",
+    "lat": 47.622558496,
+    "external_id": "20154574",
+    "longit": -122.320915221
+  },
+  {
+    "date": "2015-01-26",
+    "evidence_id": "E5382E47-E20A-4966-B4D7-031C3B0B6296",
+    "url": "https://www.youtube.com/watch?v=CPB4IWopB_E",
+    "desc": null,
+    "lat": 47.600865293,
+    "external_id": "201529218",
+    "longit": -122.298406345
+  },
+  {
+    "date": "2015-02-11",
+    "evidence_id": "8B30F570-A0D2-4A9E-BF13-B1DAF76540A7",
+    "url": "https://www.youtube.com/watch?v=cPPtdOBxcfU",
+    "desc": "MISCHIEF, NUISANCE COMPLAINTS",
+    "lat": 47.614064988,
+    "external_id": "201548330",
+    "longit": -122.322110996
+  },
+  {
+    "date": "2015-01-15",
+    "evidence_id": "BF79A007-68A8-4E95-84FB-AF97C00BAADD",
+    "url": "https://www.youtube.com/watch?v=979f6IwO3xg",
+    "desc": "LIQUOR VIOLATION - ADULT",
+    "lat": 47.621982311,
+    "external_id": "201516291",
+    "longit": -122.31992442
+  }
+  ]
+}

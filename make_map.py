@@ -9,7 +9,7 @@ def makeMap():
 	q = models.Video.all()
 	#build popups for each item
 	for item in q:
-		map1.circle_marker([item.lat, item.longit], radius=40, line_color='#67809F', fill_color='#34495E', fill_opacity=0.9, popup='<b>Date:</b>'+str(item.date)+'<br><b>Desc:</b>'+str(item.desc)+'<br><a target=_blank href='+item.url+'/>Police Footage</a><br><b>Case #:</b>'+item.external_id)
+		map1.circle_marker([item.lat, item.longit], radius=40, line_color='#67809F', fill_color='#34495E', fill_opacity=0.9, popup='<b>Date:</b>'+str(item.date)+'<br><b>Desc:</b>'+str(item.desc)+'<br><a target=_blank href='+item.url+'/>Police Footage</a><br><b>Case #:</b>'+str(item.external_id))
 	html = map1.create_map()
 	#build a ds with the head and body returned form folium
 	soup = BeautifulSoup(html, 'html.parser')
